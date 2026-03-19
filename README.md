@@ -164,10 +164,9 @@ The frontend deploys on Lovable when you push to GitHub. The reporting agent mus
 **Railway** (recommended):
 
 1. Go to [railway.app](https://railway.app), create a project, connect your GitHub repo.
-2. Add a new service. Railway will detect `railway.toml` and use `Dockerfile.reporting` (builds from repo root, bundles `data_files` and LibreOffice).
-3. Set environment variables in the Railway dashboard:
-   - `ALLOWED_ORIGINS` = `https://your-app.lovable.app` (your Lovable app URL)
-   - `DATA_DIR` is set by the image — no need to change unless you use a volume.
+2. Add a new service. Railway will use the `Dockerfile` (bundles `data` and `src`).
+3. Set environment variables in the Railway dashboard (optional):
+   - `ALLOWED_ORIGINS` — Lovable URLs are allowed by default; override only if needed.
 4. Deploy. Copy the public URL (e.g. `https://your-service.railway.app`).
 
 **Render**:
@@ -185,8 +184,10 @@ The frontend deploys on Lovable when you push to GitHub. The reporting agent mus
 1. In Lovable, open your project settings.
 2. Add environment variable:
    - **Name:** `VITE_REPORT_API_URL`
-   - **Value:** Your reporting agent URL (e.g. `https://your-service.railway.app`)
+   - **Value:** Your reporting agent URL (e.g. `https://your-service.up.railway.app`)
 3. Redeploy the frontend.
+
+**Lovable app URL:** `https://id-preview--5a62631f-7f03-4dd4-97d6-f5f00fac202e.lovable.app` — this origin is already allowed by default in the reporting agent.
 
 ### 3. Verify
 

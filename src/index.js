@@ -11,9 +11,14 @@ const app  = express();
 const PORT = process.env.PORT || 3081;
 
 // ── CORS ───────────────────────────────────────────────────────────────────
+const defaultOrigins = [
+  "http://localhost:3000", "http://localhost:5173", "http://localhost:8080", "http://127.0.0.1:8080",
+  "https://id-preview--5a62631f-7f03-4dd4-97d6-f5f00fac202e.lovable.app",
+  "https://5a62631f-7f03-4dd4-97d6-f5f00fac202e.lovable.app",
+];
 const allowedOrigins = process.env.ALLOWED_ORIGINS
   ? process.env.ALLOWED_ORIGINS.split(",").map(s => s.trim())
-  : ["http://localhost:3000", "http://localhost:5173", "http://localhost:8080", "http://127.0.0.1:8080"];
+  : defaultOrigins;
 
 app.use(cors({
   origin: (origin, cb) => {
