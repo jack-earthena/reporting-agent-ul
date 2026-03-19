@@ -9,8 +9,9 @@ COPY package*.json ./
 RUN npm ci --only=production
 
 COPY src ./src
+COPY data ./data
 
-# Data mounted at runtime, or use Dockerfile.reporting at repo root for bundled build
+# Data bundled in image; override with DATA_DIR + volume if needed
 EXPOSE 3081
 
 HEALTHCHECK --interval=30s --timeout=10s --start-period=5s --retries=3 \
