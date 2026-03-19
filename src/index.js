@@ -11,19 +11,24 @@ const app  = express();
 const PORT = process.env.PORT || 3081;
 
 // ── CORS ───────────────────────────────────────────────────────────────────
-// These origins are always allowed (never overridden)
-const BASE_ALLOWED_ORIGINS = [
-  "https://holocene-demo-alpha.lovable.app",
-  "https://id-preview--5a62631f-7f03-4dd4-97d6-f5f00fac202e.lovable.app",
-];
-const allowedOrigins = process.env.ALLOWED_ORIGINS
-  ? [...BASE_ALLOWED_ORIGINS, ...process.env.ALLOWED_ORIGINS.split(",").map(s => s.trim()).filter(Boolean)]
-  : BASE_ALLOWED_ORIGINS;
+// Any *.lovable.app origin is always allowed
+function isLovableAppOrigin(origin) {
+  try {
+    const hostname = new URL(origin).hostname;
+    return hostname === "lovable.app" || hostname.endsWith(".lovable.app");
+  } catch {
+    return false;
+  }
+}
+const extraOrigins = process.env.ALLOWED_ORIGINS
+  ? process.env.ALLOWED_ORIGINS.split(",").map(s => s.trim()).filter(Boolean)
+  : [];
 
 app.use(cors({
   origin: (origin, cb) => {
     // Allow requests with no origin (curl, Postman, server-to-server)
-    if (!origin || allowedOrigins.includes(origin)) return cb(null, true);
+    if (!origin) return cb(null, true);
+    if (isLovableAppOrigin(origin) || extraOrigins.includes(origin)) return cb(null, true);
     cb(new Error(`CORS: origin ${origin} not allowed`));
   },
   methods: ["GET", "POST", "OPTIONS"],
