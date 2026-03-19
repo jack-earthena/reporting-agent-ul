@@ -16,6 +16,7 @@ const allowedOrigins = [
   "http://localhost:5173",
   "http://localhost:8080",
   "https://5a62631f-7f03-4dd4-97d6-f5f00fac202e.lovableproject.com",
+  "https://holocene-demo-alpha.lovable.app",
 ];
 
 app.use(cors({
