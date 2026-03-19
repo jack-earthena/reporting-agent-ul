@@ -1,0 +1,293 @@
+WERCSmart Supplier,Site Name / Entity,Regulatory Flag,Summary Explainer,Action Items
+Garmin International,Global Headquarters,,,
+Garmin International,Olathe Manufacturing,High,"(CPSC Mandatory eFiling - July 2026)
+
+As a domestic manufacturer of consumer-facing navigation tech (HS 8526), digital Certificates of Compliance (CoC) must be ready for automated filing.","Digital Certification Audit: Ensure all internal lab testing data is indexed and ready for immediate electronic filing with the CPSC to avoid ""Notice of Detention"" at logistics nodes."
+Garmin International,Garmin Salem,High,"(CPSC Mandatory eFiling - July 2026)
+
+Specific aviation/marine electronics produced here require verified digital safety documentation for domestic retail and commercial distribution.",Transition to e-Certificates: Digitally link manufacturing batch records to safety certificates to ensure zero friction during federal compliance audits.
+Garmin International,Garmin Chandler,Medium,"(TSCA 8(a)(7) PFAS Reporting - Oct 2026)
+
+R&D and hardware prototyping (HS 8526) often involve specialized resins and cables. Reporting of historical PFAS use is required by Oct 2026.",Aggregate Chemical Use History: Review 10-year procurement logs for specialized polymers and flame retardants to fulfill one-time EPA historical reporting.
+Garmin International,Lin Kou Plant (Taiwan),High,"(IATA Lithium SoC - Jan 2026)
+
+Major export hub for wearables and transmitters (HS 8517). All air-shipped units must maintain a State of Charge (SoC) $\le$ 30% for safety compliance.",Audit Charging Protocols: Verify manufacturing line output to ensure batteries in consumer devices are set to the mandated 30% SoC prior to air-freight staging.
+Garmin International,Zhongli Plant (Taiwan),High,"(IATA Lithium SoC - Jan 2026)
+
+High-volume wearables site. Compliance with the 30% SoC mandate is critical for maintaining uninterrupted air-freight channels to US/EU markets.","Verify Charging Compliance: Implement ""Step-Down"" charging protocols at the final assembly stage to meet 2026 lithium battery transport safety standards."
+Garmin International,Tainan Plant (Taiwan),Medium,"(GHS Revision 9 Alignment - 2026)
+
+New smart manufacturing expansion must align with updated GHS SDS requirements for battery and electronic components.",SDS Calibration: Update Safety Data Sheets for all battery-integrated components to match 2026 GHS Revision 9 standards for international trade.
+Garmin International,Garmin Europe HQ,Critical,"(EU Ecodesign/ESPR - July 2026)
+
+Logistics and distribution of consumer electronics in the UK/EU now trigger ""Unsold Goods"" reporting and digital traceability requirements.",Establish Traceability Links: Ensure all inventory in the Southampton hub is assigned digital identity tags to comply with new EU waste prevention and reporting laws.
+Garmin International,Würzburg R&D,Medium,"(EU Battery Regulation - Feb 2026)
+
+Automotive OEM and software R&D must provide ""Battery Passport"" data for integrated power units in automotive modules.",Aggregate Battery Metadata: Collect specific electrochemical data from R&D prototypes to support the creation of the mandatory Digital Battery Passport for EU market entry.
+Garmin International,Garmin Cluj,Medium,"(EU Ecodesign/ESPR - July 2026)
+
+Software and hardware integration must account for ""Repairability Index"" data requirements for consumer devices in the EU.","Verify Design Disclosure: Ensure technical files include the required ""Repairability and Durability"" metrics mandated by 2026 EU ecodesign standards."
+Garmin International,Garmin Singapore,,,
+Garmin International,Garmin Birtley (UK),Critical,"(EU Regulation 2026/405 - DPP)
+
+Distribution of hardware must comply with the Digital Product Passport (DPP) framework for any products containing regulated chemical components.",Digital Labeling Integration: Coordinate with manufacturing sites to ensure all Birtley-distributed inventory features the mandatory QR-code data links for EU/UK compliance.
+Garmin International,Garmin Australasia,,,
+Techtronic Industries,TTI Innovation Center,High,"(CPSC Mandatory eFiling - July 2026)
+
+R&D and production of electric hand tools (HS 8467) require digital Certificates of Compliance (CoC) for entry into US commerce.",Digital Certification Audit: Ensure all internal safety testing for new R&D prototypes is indexed for automated electronic filing with US Customs.
+Techtronic Industries,Milwaukee Tool HQ,,,
+Techtronic Industries,Milwaukee Jackson,High,"(IATA Lithium SoC - Jan 2026)
+
+Manufacturing of cordless power tools (HS 8467). Integrated batteries must be shipped at $\le$ 30% State of Charge (SoC).",Audit Charging Protocols: Verify manufacturing line settings to ensure all cordless units are set to the mandated 30% SoC prior to outbound logistics.
+Techtronic Industries,Milwaukee Grenada,Medium,"(Canada Toxic Substances Ban - June 2026)
+
+Production of saw blades and accessories (HS 8202) requires verification of specialized coatings/flame retardants.",Chemical Composition Review: Audit coating formulations for Dechlorane Plus or DBDPE to ensure compliance with updated 2026 Canadian environmental standards.
+Techtronic Industries,Milwaukee Greenwood,High,"(IATA Lithium SoC - Jan 2026)
+
+As a manufacturing and service hub for battery-operated tools, SoC compliance is critical for all refurbished or new units.",Verify Service Center Charging: Implement SoC testing for all serviced/repaired battery units to meet 2026 air-transport safety regulations.
+Techtronic Industries,Olive Branch DC,Critical,"(CPSC Mandatory eFiling - July 2026)
+
+This major hub handles distribution of high-volume electronics (HS 8508/8467). Automated eFiling is required for all imports moving through this DC.","Logistics Data Integration: Ensure the DC's warehouse management system is digitally linked to safety certificates to prevent border/customs ""Notice of Detention."""
+Techtronic Industries,Milwaukee Clinton,High,"(IATA Lithium SoC - Jan 2026)
+
+Expanded hub for electric hand tools. High-velocity production requires automated SoC controls at the end of the assembly line.",Implement Line Controls: Integrate automated SoC discharge/charge verification into the final QC process to ensure 100% compliance with air-freight limits.
+Techtronic Industries,Milwaukee West Bend,Low,"(Ozone Transport Region VOCs - 2026)
+
+Precision hand tool production involves specific metal-working fluids and lubricants with updated VOC caps in the Great Lakes region.",VOC Concentration Audit: Review lubricant and finishing fluid formulations to ensure they meet updated 2026 regional air quality standards.
+Techtronic Industries,Empire Level,Medium,"(TSCA 8(a)(7) PFAS Reporting - Oct 2026)
+
+Measuring instruments (HS 9017) often use specialized low-friction coatings or polymers that may contain legacy PFAS.",Aggregate Historical Data: Review 10-year procurement and material records for specialized coatings to fulfill the one-time EPA PFAS reporting requirement.
+Techtronic Industries,Milwaukee Torreon,High,"(TSCA 8(a)(7) PFAS Reporting - Oct 2026)
+
+Near-shoring manufacturing of ""articles"" (tools) requires reporting of any PFAS chemicals imported into the US from the Mexico site.",Import Article Audit: Analyze plastic housing and internal components for PFAS additives to meet the Oct 2026 federal reporting deadline.
+Techtronic Industries,TTI Floor Care N.A.,,,
+Techtronic Industries,TTI Dongguan Hub,High,"(New CN HazChem Law - May 2026)
+
+Global manufacturing hub for vacuums/tools (HS 8508). Requires real-time electronic tracing and updated GHS-aligned SDS for exports.",Global GHS Alignment: Update Safety Data Sheets for all battery-powered products to comply with both the new China Law and US/EU 2026 safety standards.
+Techtronic Industries,TTI Vietnam (SHTP),Medium,"(ASEAN Plastic & GHS Updates - 2026)
+
+Advanced manufacturing hub requires detailed polymer reporting for exported tool housings (HS 8467).","Material Transparency: Aggregate resin and additive data to meet regional reporting requirements for plastic ""circularity"" and export compliance."
+Techtronic Industries,DreBo (Germany),Critical,"(EU Ecodesign/ESPR - July 2026)
+
+Specialized interchangeable tools (HS 8207) sold in the EU now trigger ""Digital Product Passport"" (DPP) requirements.",Digital Labeling Integration: Coordinate with the German HQ to ensure all industrial drill bits feature mandatory QR-code data links for EU market access.
+Techtronic Industries,Ryobi Die Casting,Medium,"(TSCA 8(a)(7) PFAS Reporting - Oct 2026)
+
+Component casting for metal molds (HS 8480) may involve legacy PFAS in release agents or coolants.",Chemical Use History: Audit 10-year records for lubricants and mold release agents to satisfy EPA historical reporting requirements.
+"S.C. Johnson & Son, Inc.",Global Corporate HQ,,,
+"S.C. Johnson & Son, Inc.",Waxdale Facility,Critical,"(PFAS Prohibition - 2026 State Bans)
+
+As of Jan 1, 2026, Minnesota, Maine, and Colorado have active bans on ""intentionally added PFAS"" in cleaning products and disinfectants (HS 3402/3808).","Verify PFAS-Free Status: Perform an immediate formulation audit to confirm the absence of perfluoroalkyl substances to prevent state-level ""stop-sale"" orders."
+"S.C. Johnson & Son, Inc.",Ziploc Bay City Plant,High,"(CA SB 343 - Truth in Recycling)
+
+Enforcement deadline is Oct 4, 2026. ""Chasing Arrows"" symbols are prohibited on packaging (HS 3923) unless the material meets strict 60% recovery thresholds in CA.","Labeling Validation: Cross-reference packaging material specifications against 2026 state-approved ""recyclable"" lists to ensure labeling accuracy."
+"S.C. Johnson & Son, Inc.",North America HQ,,,
+"S.C. Johnson & Son, Inc.","Method ""Soapbox""",Low,"(Ozone Transport Region VOCs)
+
+New 2026 updates to Volatile Organic Compound (VOC) limits for soaps and surfactants in the Northeast US corridor.",VOC Concentration Audit: Review formulations to ensure chemical concentrations fall below the updated 2026 percentage caps for regional compliance.
+"S.C. Johnson & Son, Inc.",SCJ Professional HQ,,,
+"S.C. Johnson & Son, Inc.",Stanley Plant (SCJP),Low,"(Ozone Transport Region VOCs)
+
+Mirroring the Method site, this facility's pro-line hand and floor care products face updated 2026 VOC limits in specific US markets.",VOC Concentration Audit: Ensure industrial-grade formulations meet the lowered VOC thresholds required for 2026 regional air quality standards.
+"S.C. Johnson & Son, Inc.",SCJ Europlant,Critical,"(EU Regulation 2026/405 - DPP)
+
+The new EU Detergent Regulation (Feb 2026) mandates a Digital Product Passport (DPP) and strict new biodegradability testing for all surfactants.",Digital Onboarding: Convert product technical files into a digital format capable of generating the mandatory QR-code labels for EU market access.
+"S.C. Johnson & Son, Inc.",European HQ (Rolle),,,
+"S.C. Johnson & Son, Inc.",Gorzów Manufacturing,Critical,"(EU Regulation 2026/405 - DPP)
+
+As a primary EU Hub for Air Care and Cleaning, this site must comply with the Feb 2026 EU Detergent and Ecodesign requirements.",Digital Onboarding: Standardize chemical data for the EU Digital Product Passport to ensure seamless distribution across the Schengen area.
+"S.C. Johnson & Son, Inc.",Rosslyn Factory,Medium,"(GHS Revision Alignment)
+
+South Africa’s transition toward GHS Revision 9 requires updated Safety Data Sheet (SDS) authoring for cleaning preparations (HS 3402).",GHS Harmonization: Update SDS formats from local standards to align with 2026 global safety requirements for international retail partners.
+"S.C. Johnson & Son, Inc.",Shanghai Johnson Ltd,High,"(New CN HazChem Law - May 2026)
+
+China’s first Hazardous Chemicals Safety Law takes effect May 1, 2026. It mandates property-based hazard identification and real-time electronic tracing.",Global GHS Alignment: Ensure all chemical manufacturing data is bi-directionally compliant with both the new China Law and destination-market (US/EU) standards.
+"S.C. Johnson & Son, Inc.",SCJ Vietnam,Medium,"(ASEAN Plastic & GHS Updates)
+
+New 2026 ASEAN circular economy frameworks require detailed polymer reporting for exported plastic packaging (HS 3923).","Material Transparency: Aggregate resin and additive data to meet new regional reporting requirements for plastic ""circularity"" and export compliance."
+"S.C. Johnson & Son, Inc.",LATAM Regional HQ,,,
+"S.C. Johnson & Son, Inc.",Pilar Manufacturing,Medium,"(Mercosur GHS Update)
+
+Updated 2026 Mercosur standards for aerosol classification (HS 3402/3808) require revised pressure and flammability testing data.",Technical File Review: Re-validate aerosol flammability classifications to ensure SDS accuracy for the LATAM and export markets.
+"S.C. Johnson & Son, Inc.",Toluca Plant,High,"(TSCA 8(a)(7) PFAS Reporting)
+
+The EPA’s mandatory reporting deadline for 10 years of historical PFAS data (including ""articles"" like Ziploc bags) is Oct 13, 2026.",Aggregate Historical Data: Collect chemical and polymer production logs dating back to 2011 to fulfill the one-time federal EPA reporting requirement.
+"GOJO Industries, Inc.",Global Headquarters,,,
+"GOJO Industries, Inc.",Lippman Campus (Stow),High,"(CA SB 343 - Oct 2026)
+
+As a component hub for plastic dispensers and bottles (HS 3923), products must meet California's strict 2026 ""Truth in Labeling"" criteria to use recycling symbols.","Labeling Validation: Cross-reference dispenser material specifications against state-approved lists to ensure the ""Chasing Arrows"" symbol is legally permitted."
+"GOJO Industries, Inc.",Cuyahoga Falls Plant,Critical,"(PFAS Prohibition - Jan 2026)
+
+Main production site for PURELL® (HS 3401/3808). State bans in MN, ME, and CO now prohibit intentionally added PFAS in cleaning and personal care products.",Verify PFAS-Free Status: Perform a comprehensive formulation audit to confirm the absence of perfluoroalkyl substances to maintain 50-state retail access.
+"GOJO Industries, Inc.",Wooster Facility,Critical,"(PFAS Prohibition - Jan 2026)
+
+As a secondary manufacturing hub for soaps/sanitizers, this site is subject to immediate state-level stop-sale risks if PFAS content is not disclosed.",Formulation Audit: Document all chemical inputs for soap and sanitizer lines to certify compliance with 2026 state-level prohibition deadlines.
+"GOJO Industries, Inc.",Maple Heights Plant,Critical,"(PFAS Prohibition - Jan 2026)
+
+Surface spray manufacturing (HS 3808) is a primary target for 2026 ""forever chemical"" bans and intensified EPA biocide scrutiny.",Certify Chemical Purity: Validate that all surface disinfectant formulations are free from regulated PFAS surfactants and additives.
+"GOJO Industries, Inc.",Ashland Dist. Center,Critical,"(PFAS Prohibition - Jan 2026)
+
+Major logistics hub. Large-scale distribution of sanitizers to regulated states requires immediate proof of compliance to prevent shipment interdiction.",Logistics Data Verification: Ensure all outbound bulk inventory is backed by verified chemical disclosure data for immediate presentation to state regulators.
+"GOJO Industries, Inc.",Navarre Warehouse,Critical,"(PFAS Prohibition - Jan 2026)
+
+Regional storage of soaps and disinfectants (HS 3401/3808) requires current, verified safety data to meet Jan 2026 retail gatekeeper requirements.","Verify Documentation: Confirm that all stored SKU data is updated to reflect the 2026 ""PFAS-free"" status required by national retail partners."
+"GOJO Industries, Inc.",GOJO Europe (UK HQ),,,
+"GOJO Industries, Inc.",GOJO France SARL,,,
+"GOJO Industries, Inc.",GOJO Australasia,,,
+"GOJO Industries, Inc.","GOJO Japan, Inc.",,,
+"GOJO Industries, Inc.",GOJO América Latina,Medium,"(Mercosur GHS Update - 2026)
+
+Brazil's updated GHS standards for chemical labeling (HS 3401/3808) require revised Safety Data Sheets (SDS) for industrial and consumer soap lines.",Update Safety Data Sheets: Revise all regional SDS and hazard labels to align with the 2026 Mercosur GHS classification and labeling requirements.
+"GOJO Industries, Inc.",GOJO Canada Inc.,,,
+Hangzhou Greatstar,Global Headquarters,,,
+Hangzhou Greatstar,GreatStar Industrial USA,,,
+Hangzhou Greatstar,Arrow Fastener Co. HQ,High,"(CPSC Mandatory eFiling - July 2026)
+
+Manual and electric staple guns (HS 8205/8467) require digital Certificates of Compliance (CoC) to bypass U.S. Customs detentions.",Transition to e-Certificates: Digitally link manufacturing batch records to safety certificates to ensure zero friction during federal customs audits.
+Hangzhou Greatstar,Shop-Vac / SK Tools,High,"(CPSC Mandatory eFiling - July 2026)
+
+Wet/dry vacuums (HS 8508) and power tools (HS 8467) must have electronic filing status for consumer safety certifications at the point of entry.",Digital Certification Audit: Ensure all internal laboratory test results are indexed and ready for immediate electronic filing with the CPSC.
+Hangzhou Greatstar,Prime-Line Products,High,"(CA SB 343 - Oct 2026)
+
+Hardware packaging (HS 8302) manufactured or distributed in California must meet strict ""Truth in Recycling"" labeling standards for plastic film.","Labeling Validation: Cross-reference packaging material specifications against state-approved lists to ensure the ""Chasing Arrows"" symbol is legally permitted."
+Hangzhou Greatstar,LISTA AG (Switzerland),Critical,"(EU ESPR / Digital Product Passport - July 2026)
+
+High-end industrial furniture and steel storage (HS 9403) entering the EU must now carry a Digital Product Passport (DPP) for circularity reporting.",Digital Onboarding: Transition product technical files into the required digital format to generate mandatory QR-code passports for EU market access.
+Hangzhou Greatstar,BeA GmbH (Germany),Critical,"(EU ESPR / Digital Product Passport - July 2026)
+
+Industrial fastening systems (HS 8467) are among the first categories required to provide digital traceability data for EU-wide distribution.",Standardize Digital Data: Aggregate chemical and material footprint data to comply with the mandatory EU Digital Product Passport framework.
+Hangzhou Greatstar,Zhongshan Geelong Mfg,High,"(New CN HazChem Law - May 2026)
+
+Steel cabinet production involving powder coatings and lubricants requires real-time electronic tracing and updated GHS-aligned SDS for exports.",Global GHS Alignment: Update Safety Data Sheets for all coated products to comply with both the new China Law and destination-market (US/EU) safety standards.
+Hangzhou Greatstar,GreatStar Vietnam Base,High,"(IATA Lithium SoC - Jan 2026)
+
+Primary export hub for cordless power tools (HS 8467). All battery-integrated units shipped by air must maintain a State of Charge (SoC) $\le$ 30%.",Audit Charging Protocols: Verify manufacturing line settings to ensure all cordless units are set to the mandated 30% SoC prior to outbound logistics.
+Hangzhou Greatstar,GreatStar Thailand Base,Medium,"(TSCA 8(a)(7) PFAS Reporting - Oct 2026)
+
+Specialized screws and fasteners (HS 7318) often utilize PFAS-based coatings (e.g., PTFE). Historical reporting of imported ""articles"" is due.",Aggregate Chemical Use History: Review 10-year procurement logs for specialized coatings to fulfill one-time federal EPA reporting requirements.
+Hangzhou Greatstar,Haining GreatStar Hub,High,"(IATA Lithium SoC - Jan 2026)
+
+Smart logistics and cordless tool hub. High-velocity production requires automated SoC controls to prevent air-freight rejection at China ports.",Verify Charging Compliance: Implement automated SoC discharge/charge verification into the final QC process for all battery-integrated SKUs.
+Hangzhou Greatstar,Goldblatt / GreatStar R&D,,,
+Hangzhou Greatstar,GreatStar Changzhou Base,High,"(IATA Lithium SoC - Jan 2026)
+
+Laser measurement tools (HS 9015) contain lithium batteries. Export of these high-precision instruments via air freight triggers the 30% SoC limit.",Audit Charging Protocols: Verify that laser rangefinder batteries are set to the mandated 30% SoC level during final assembly for export compliance.
+Hangzhou Greatstar,Xiaoshan Logistics Base,Critical,"(CPSC Mandatory eFiling - July 2026)
+
+As a global e-commerce fulfillment hub, this site must support the digital Certificates of Compliance (CoC) required for every individual SKU entering the US.",Logistics Data Integration: Ensure the fulfillment system is digitally linked to safety certificates to prevent individual shipment detentions at US Customs.
+Perrigo Company,Global Headquarters,,,
+Perrigo Company,N. American HQ,,,
+Perrigo Company,Allegan Main Campus,High,"(FDA MoCRA Facility Renewal - July 2026)
+
+Manufacturing of personal care and OTC topicals requires biennial facility registration. Failure leads to ""adulterated"" product status.",Execute Facility Renewal: Complete mandatory FDA facility registration for all cosmetic and topical lines to maintain legal manufacturing status.
+Perrigo Company,Allegan Water St,Critical,"(FSMA Rule 204 - Traceability 2026)
+
+Infant formula (HS 1901) is on the High-Risk Food Traceability List. Sites must maintain electronic records of Key Data Elements (KDEs).",Verify Traceability Systems: Audit digital record-keeping to ensure all infant formula batches meet the 24-hour electronic data request mandate from the FDA.
+Perrigo Company,Eau Claire Facility,Critical,"(FSMA Rule 204 / FDA Oversight)
+
+As a primary infant formula site with previous oversight history, this facility faces intensified 2026 scrutiny regarding safety and traceability.",Sanitary Protocol Audit: Validate all environmental monitoring and traceability data to ensure compliance with enhanced 2026 infant nutrition safety standards.
+Perrigo Company,PBM VT,Critical,"(FSMA Rule 204 - Traceability 2026)
+
+Mandatory electronic tracking for ""high-risk"" infant nutrition components and finished goods is now in active enforcement.",Implement KDE Tracking: Verify that Key Data Elements (KDEs) for all raw material arrivals and finished product shipments are digitally archived for immediate retrieval.
+Perrigo Company,Perrigo Direct Hub,High,"(DSCSA Electronic Traceability - 2026)
+
+Distribution of OTC medicaments requires full interoperable electronic data exchange for every package-level transaction.","Data Exchange Validation: Ensure the distribution hub can provide ""3T"" data (Transaction Information, History, and Statement) in an electronic, interoperable format."
+Perrigo Company,Omaha Logistics,High,"(DSCSA Electronic Traceability - 2026)
+
+Regional distribution center must meet package-level serial verification requirements to prevent counterfeit or diverted product entry.",Serial Verification Audit: Perform a system check to confirm that all outbound OTC shipments are correctly serialized and traceable at the individual unit level.
+Perrigo Company,Israel (Yeruham),Medium,"(FDA Foreign Facility Registration)
+
+Active Pharmaceutical Ingredient (API) and dosage manufacturing requires updated 2026 foreign facility listings and GHS Rev 9 alignment.",Update Foreign Registry: Ensure the Yeruham facility's FDA listing is current and all chemical Safety Data Sheets (SDS) are calibrated to 2026 global standards.
+Perrigo Company,Perrigo Mexico,High,"(TSCA 8(a)(7) PFAS Reporting - Oct 2026)
+
+Imports of ""articles"" (medication packaging/applicators) containing PFAS-based polymers require a 10-year historical data filing.",Aggregate Packaging Data: Review historical procurement records for plastic dispensers and applicators to satisfy one-time EPA PFAS reporting requirements.
+Perrigo Company,Wrafton Labs (UK),High,"(UK/EU Post-Market Surveillance 2026)
+
+OTC pharma and oral care produced in the UK must meet updated UKCA labeling and EU-aligned safety reporting for export.",Labeling Reconciliation: Verify that all packaging reflects the updated UKCA and EU CE-mark requirements for dual-market distribution.
+Perrigo Company,Galpharm (UK),High,"(UK/EU Post-Market Surveillance 2026)
+
+Generic medicine production requires updated periodic safety update reports (PSURs) to maintain regional marketing authorizations.",Safety Data Update: Refresh all post-market surveillance files to align with updated 2026 UK and EU self-care product regulations.
+Perrigo Company,Rosemont (UK),High,"(UK/EU Post-Market Surveillance 2026)
+
+Specialty liquid pharma manufacturing requires digital traceability data for bi-directional market access between UK and EU.",Standardize Digital Tracking: Implement digital data exchange protocols to ensure liquid specialty products meet 2026 cross-border pharmaceutical tracking laws.
+Perrigo Company,HRA Pharma France,,,
+Perrigo Company,HRA Pharma US,,,
+The Hain Celestial Group,Global Headquarters,,,
+The Hain Celestial Group,Celestial Seasonings,Critical,"(PFAS Prohibition - Jan 2026)
+
+Colorado’s ban on intentionally added PFAS in food packaging and consumer products (HS 0902) is in active enforcement as of Jan 1, 2026.",Verify Packaging Purity: Audit tea bag materials and outer packaging formulations to confirm the absence of perfluoroalkyl substances to meet CO state law.
+The Hain Celestial Group,Hain Personal Care Hub,Critical,"(FDA MoCRA / CA PFAS Ban - 2026)
+
+Biennial FDA facility registration is due July 1, 2026. California’s ban on PFAS in cosmetics and personal care (HS 3304) is currently in active enforcement.",Execute Facility Renewal: Complete mandatory FDA registration and perform a sub-100ppm chemical audit to certify PFAS-free status for all personal care brands.
+The Hain Celestial Group,Hain Celestial Canada HQ,,,
+The Hain Celestial Group,Mississauga Facility,Medium,"(Canada Toxic Substances Update - 2026)
+
+Revised reporting requirements for food-grade contact materials and processing additives (HS 1905) under updated Canadian environmental regulations.",Aggregate Material Data: Review chemical reporting thresholds for food-processing lubricants and contact additives to ensure 2026 Canadian environmental compliance.
+The Hain Celestial Group,Hain Daniels (Fakenham),High,"(EU ESPR / Digital Product Passport - July 2026)
+
+New EU/UK ecodesign rules mandate digital traceability for prepared food packaging (HS 2106) to support circular economy reporting goals.",Standardize Digital Data: Transition packaging technical files into a digital format to support future Digital Product Passport (DPP) requirements for EU/UK distribution.
+The Hain Celestial Group,Hain Daniels (Histon),High,"(UK/EU Food Labeling Update - 2026)
+
+Revised nutrition and origin labeling requirements for fruit preserves (HS 2007) aimed at improving consumer transparency in European markets.",Labeling Reconciliation: Audit current jam/jelly packaging to ensure compliance with 2026 front-of-pack labeling and ingredient origin transparency mandates.
+The Hain Celestial Group,Fresh Innovation Centre,High,"(EU/UK Prepared Food Traceability - 2026)
+
+Fresh soups and prepared meals (HS 2104) face intensified electronic traceability requirements for ingredient sourcing and pathogen control.",Verify Traceability Systems: Audit digital record-keeping for fresh ingredient batches to meet the 24-hour electronic data request standards for prepared food safety.
+The Hain Celestial Group,Ella’s Kitchen HQ,,,
+The Hain Celestial Group,Natumi GmbH,Critical,"(EU Regulation 2026/405 - DPP Alignment)
+
+As of Feb 2026, EU ecodesign frameworks require digital data links for beverage packaging (HS 2202) to track recycling and footprint metrics.",Digital Onboarding: Transition product data into the mandatory digital format to support QR-code labeling for German and EU market access.
+The Hain Celestial Group,Mona Naturprodukte (Joya),Critical,"(EU Regulation 2026/405 - DPP Alignment)
+
+Austrian production of plant-based milks (HS 2202) must comply with 2026 EU Digital Product Passport (DPP) mandates for sustainable packaging.",Implement Digital Traceability: Integrate material footprint and recyclability data into the digital passport system required for Austrian and EU retail distribution.
+The Hain Celestial Group,Cully & Sully,,,
+The Hain Celestial Group,Yorkshire Provender,High,"(UK Food Safety/Traceability - 2026)
+
+Specialized soup production (HS 2104) requires package-level digital traceability to manage ingredient origin and shelf-life compliance.",Update Digital Tracking: Ensure fresh soup batch records are digitally archived and interoperable with retail partner systems to prevent safety-related distribution delays.
+ZURU LLC.,ZURU Global HQ,,,
+ZURU LLC.,ZURU US Flagship,,,
+ZURU LLC.,ZURU Shenzhen Hub,,,
+ZURU LLC.,ZURU Huizhou Factory,High,"(CPSC Mandatory eFiling - July 8, 2026)
+
+Toys (HS 9503) exported to the US must now feature a digital Certificate of Compliance (CoC). Shipments lacking automated data linkage face immediate seizure at the port of entry.","Digital Data Transition: Aggregate laboratory test results into a machine-readable format to support automated eFiling and prevent ""Notice of Detention"" at US Customs."
+ZURU LLC.,ZURU Guangzhou Plant,High,"(IATA Lithium SoC / EU Toy Safety - 2026)
+
+Battery-operated toys (HS 9503.00) shipped by air must comply with the 30% State of Charge (SoC) limit. New EU rules also intensify restrictions on endocrine-disrupting chemicals.",Verify Charging & Chemistry: Audit final assembly lines to ensure lithium batteries are set to $\le$ 30% SoC and verify toy formulations against the 2026 EU restricted substances list.
+ZURU LLC.,ZURU New Zealand HQ,,,
+ZURU LLC.,ZURU Tech Italy (Modena),,,
+ZURU LLC.,ZURU Tech India (AHD),,,
+ZURU LLC.,ZURU Tech India (KOL),,,
+ZURU LLC.,ZURU Bentonville Office,,,
+ZURU LLC.,ZURU Tech Italy (Milan),,,
+ZURU LLC.,ZURU Dongguan Tech,,,
+John Paul Mitchell Systems,Global Headquarters,,,
+John Paul Mitchell Systems,JPMS Creative Center,,,
+John Paul Mitchell Systems,Santa Clarita DC,Critical,"(MoCRA Facility Renewal / CA PFAS Registration - 2026)
+
+As an operations and R&D hub, this site must execute the biennial FDA facility renewal by July 1, 2026. Additionally, California AB 2247 requires public registration of all products with intentionally added PFAS by the same date.",Execute Facility Registration: Complete mandatory FDA biennial renewal for processing operations and aggregate formulation data for the mandatory CA PFAS disclosure portal.
+John Paul Mitchell Systems,The Awapuhi Farm,High,"(Hawaii Agricultural Declaration Form - 2026)
+
+Mandatory 2026 legal affirmation of agricultural land use and sustainability pledges (HADF) required for tax and zoning compliance.",Submit HADF Affirmation: File the 2026 agricultural declaration and update the Organic System Plan (OSP) to maintain USDA National Organic Program standards.
+John Paul Mitchell Systems,JPMS UK (Salon Success),,,
+John Paul Mitchell Systems,JPMS European Hub,,,
+John Paul Mitchell Systems,Pro-motive (Subsidiary),High,"(CPSC eFiling / Lithium Battery SoC - 2026)
+
+R&D for salon tools (HS 8516) triggers the July 8, 2026, CPSC eFiling mandate for imported components and the Jan 2026 IATA 30% State of Charge limit for cordless devices.",Transition to Digital CoC: Integrate laboratory safety data into an eFiling-ready format and audit charging protocols for all cordless tool prototypes.
+John Paul Mitchell Systems,Distribution Center East,High,"(State-Level PFAS Bans / SB 343 Readiness)
+
+Logistics for hair care (HS 3305) into the Northeast (CT, ME, VT) face active Jan 2026 PFAS prohibitions. Preparation for the Oct 2026 CA ""Truth in Recycling"" (SB 343) labeling enforcement is also required.",Verify Multi-State Compliance: Audit SKU-level data for state-specific chemical bans and validate packaging recyclability claims ahead of the Q4 2026 labeling deadline.
+"Natural Organics, Inc.",Global Headquarters,,,
+"Natural Organics, Inc.",Melville Manufacturing,Critical,"(FSMA Rule 204 - Jan 2026 Enforcement)
+
+Dietary supplements (HS 2106) containing botanicals or high-risk extracts are now subject to strict electronic traceability. Manufacturing records must support 24-hour data requests from federal regulators.","Verify Traceability Systems: Perform a digital audit of record-keeping for raw material batches to ensure compliance with the ""Key Data Element"" (KDE) traceability mandate."
+"Natural Organics, Inc.","The ""Pharma-Lab""",Medium,"(Heavy Metal & PFAS Certification - 2026)
+
+Retailers now mandate digital verification of analytical testing for contaminants (lead, arsenic, and PFAS) in raw botanical ingredients to support consumer safety claims.",Standardize Lab Data: Transition analytical test results into a machine-readable format to support automated safety verification requests from retail partners.
+"Natural Organics, Inc.",Melville Distribution,High,"(FSVP / Import-Export Digital Filing - 2026)
+
+Global export of supplements requires real-time digital verification of Foreign Supplier Verification Program (FSVP) records for imported raw materials.","Audit Export Documentation: Ensure that all digital ""Traceability Lot Codes"" are correctly linked to export certificates to prevent logistics delays at international borders."
+"Natural Organics, Inc.",Amityville Facility,High,"(NY PFAS in Packaging / CA SB 343 - 2026)
+
+As a packing hub, secondary containers must comply with New York’s active PFAS packaging ban and California’s Oct 2026 ""Truth in Recycling"" labeling thresholds.",Labeling Validation: Cross-reference packaging material specifications against state-approved lists to ensure recyclability symbols and chemical disclosures are legally accurate.
+"Natural Organics, Inc.",Nature’s Plus UK,Critical,"(EU Regulation 2026/405 - DPP)
+
+The UK and EU now mandate a Digital Product Passport (DPP) for nutritional preparations (HS 2106), requiring ingredient origin and carbon footprint data.",Digital Onboarding: Transition product technical files into a digital format capable of generating the mandatory QR-code passports for EU and UK market access.
+"Natural Organics, Inc.",Euro-Nutrition Hub,,,

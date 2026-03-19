@@ -1,0 +1,127 @@
+,supplier_name,facility_name,risk_type,risk_level,timeframe,water_stress,drought_risk
+0,Garmin International,Global Headquarters,Water Shortage Risk,low,Within 5 Years,low,low
+1,Garmin International,Olathe Manufacturing,Water Shortage Risk,low,Within 5 Years,low,low
+2,Garmin International,Garmin Salem,Water Shortage Risk,low,Within 5 Years,low,low
+3,Garmin International,Garmin Chandler,Water Shortage Risk,high,Within 5 Years,very_high,low
+4,Garmin International,Lin Kou Plant (Taiwan),Water Shortage Risk,low,Within 5 Years,low,low
+5,Garmin International,Zhongli Plant (Taiwan),Water Shortage Risk,low,Within 5 Years,low,low
+6,Garmin International,Tainan Plant (Taiwan),Water Shortage Risk,low,Within 5 Years,low,low
+7,Garmin International,Garmin Europe HQ,Water Shortage Risk,low,Within 5 Years,low,low
+8,Garmin International,Würzburg R&D (Germany),Water Shortage Risk,low,Within 5 Years,medium,low
+9,Garmin International,Garmin Cluj (Romania),Water Shortage Risk,low,Within 5 Years,very_low,low
+10,Garmin International,Garmin Singapore,Water Shortage Risk,low,Within 5 Years,low,low
+11,Garmin International,Garmin Birtley (UK),Water Shortage Risk,low,Within 5 Years,low,low
+12,Garmin International,Garmin Australasia,Water Shortage Risk,low,Within 5 Years,medium,low
+13,Techtronic Industries,TTI Innovation Center,Water Shortage Risk,low,Within 5 Years,medium,low
+14,Techtronic Industries,Milwaukee Tool Global HQ,Water Shortage Risk,low,Within 5 Years,low,low
+15,Techtronic Industries,Milwaukee Tool Jackson Plant,Water Shortage Risk,low,Within 5 Years,low,low
+16,Techtronic Industries,Milwaukee Tool Grenada Plant,Water Shortage Risk,low,Within 5 Years,low,low
+17,Techtronic Industries,Milwaukee Tool Greenwood Plant,Water Shortage Risk,low,Within 5 Years,low,low
+18,Techtronic Industries,Milwaukee Tool Olive Branch DC,Water Shortage Risk,low,Within 5 Years,low,low
+19,Techtronic Industries,Milwaukee Tool Clinton Plant,Water Shortage Risk,low,Within 5 Years,low,low
+20,Techtronic Industries,Milwaukee Tool West Bend,Water Shortage Risk,low,Within 5 Years,low,low
+21,Techtronic Industries,Empire Level (Subsidiary),Water Shortage Risk,medium,Within 5 Years,medium,low
+22,Techtronic Industries,Milwaukee Tool Torreon,Water Shortage Risk,medium,Within 5 Years,very_high,very_low
+23,Techtronic Industries,TTI Floor Care N.A.,Water Shortage Risk,medium,Within 5 Years,very_high,low
+24,Techtronic Industries,TTI Dongguan Hub,Water Shortage Risk,low,Within 5 Years,low,low
+25,Techtronic Industries,TTI Vietnam (SHTP),Water Shortage Risk,low,Within 5 Years,medium,very_low
+26,Techtronic Industries,DreBo Werkzeugfabrik,Water Shortage Risk,low,Within 5 Years,very_low,low
+27,Techtronic Industries,Ryobi Die Casting (USA),Water Shortage Risk,low,Within 5 Years,low,low
+28,"S.C. Johnson & Son, Inc.",Global Corporate HQ,Water Shortage Risk,low,Within 5 Years,low,low
+29,"S.C. Johnson & Son, Inc.",Waxdale Facility,Water Shortage Risk,low,Within 5 Years,low,low
+30,"S.C. Johnson & Son, Inc.",Ziploc Bay City Plant,Water Shortage Risk,low,Within 5 Years,low,low
+31,"S.C. Johnson & Son, Inc.",North America HQ,Water Shortage Risk,medium,Within 5 Years,high,low
+32,"S.C. Johnson & Son, Inc.","Method ""Soapbox""",Water Shortage Risk,medium,Within 5 Years,high,low
+33,"S.C. Johnson & Son, Inc.",SC Johnson Professional HQ,Water Shortage Risk,medium,Within 5 Years,high,low
+34,"S.C. Johnson & Son, Inc.",Stanley Plant (SCJP),Water Shortage Risk,low,Within 5 Years,medium,low
+35,"S.C. Johnson & Son, Inc.",SCJ Europlant,Water Shortage Risk,low,Within 5 Years,very_low,low
+36,"S.C. Johnson & Son, Inc.",European Headquarters (Rolle),Water Shortage Risk,low,Within 5 Years,low,low
+37,"S.C. Johnson & Son, Inc.",Gorzów Manufacturing,Water Shortage Risk,low,Within 5 Years,low,low
+38,"S.C. Johnson & Son, Inc.",Rosslyn Factory,Water Shortage Risk,low,Within 5 Years,high,very_low
+39,"S.C. Johnson & Son, Inc.",Shanghai Johnson Ltd,Water Shortage Risk,low,Within 5 Years,low,low
+40,"S.C. Johnson & Son, Inc.",SC Johnson Vietnam,Water Shortage Risk,low,Within 5 Years,medium,very_low
+41,"S.C. Johnson & Son, Inc.",LATAM Regional HQ,Water Shortage Risk,low,Within 5 Years,low,low
+42,"S.C. Johnson & Son, Inc.",Pilar Manufacturing,Water Shortage Risk,low,Within 5 Years,low,low
+43,"S.C. Johnson & Son, Inc.",Toluca Plant,Water Shortage Risk,medium,Within 5 Years,very_high,very_low
+44,"GOJO Industries, Inc.",Global Headquarters,Water Shortage Risk,low,Within 5 Years,low,low
+45,"GOJO Industries, Inc.",Lippman Campus (Stow),Water Shortage Risk,low,Within 5 Years,low,low
+46,"GOJO Industries, Inc.",Cuyahoga Falls Plant,Water Shortage Risk,low,Within 5 Years,low,low
+47,"GOJO Industries, Inc.",Wooster Facility,Water Shortage Risk,low,Within 5 Years,medium,low
+48,"GOJO Industries, Inc.",Maple Heights Plant,Water Shortage Risk,low,Within 5 Years,low,low
+49,"GOJO Industries, Inc.",Ashland Dist. Center,Water Shortage Risk,low,Within 5 Years,medium,low
+50,"GOJO Industries, Inc.",Navarre Warehouse,Water Shortage Risk,low,Within 5 Years,medium,low
+51,"GOJO Industries, Inc.",GOJO Europe (UK HQ),Water Shortage Risk,low,Within 5 Years,low,low
+52,"GOJO Industries, Inc.",GOJO France SARL,Water Shortage Risk,medium,Within 5 Years,high,low
+53,"GOJO Industries, Inc.",GOJO Australasia,Water Shortage Risk,medium,Within 5 Years,high,low
+54,"GOJO Industries, Inc.","GOJO Japan, Inc.",Water Shortage Risk,low,Within 5 Years,medium,low
+55,"GOJO Industries, Inc.",GOJO América Latina,Water Shortage Risk,low,Within 5 Years,low,low
+56,"GOJO Industries, Inc.",GOJO Canada Inc.,Water Shortage Risk,low,Within 5 Years,low,low
+57,Hangzhou Greatstar Industrial.Co.,Global Headquarters,Water Shortage Risk,low,Within 5 Years,low,low
+58,Hangzhou Greatstar Industrial.Co.,GreatStar Industrial USA,Water Shortage Risk,low,Within 5 Years,medium,low
+59,Hangzhou Greatstar Industrial.Co.,Arrow Fastener Co. HQ,Water Shortage Risk,low,Within 5 Years,low,low
+60,Hangzhou Greatstar Industrial.Co.,Shop-Vac / SK Tools USA,Water Shortage Risk,low,Within 5 Years,very_low,low
+61,Hangzhou Greatstar Industrial.Co.,Prime-Line Products,Water Shortage Risk,medium,Within 5 Years,very_high,very_low
+62,Hangzhou Greatstar Industrial.Co.,LISTA AG (Switzerland),Water Shortage Risk,low,Within 5 Years,very_low,low
+63,Hangzhou Greatstar Industrial.Co.,BeA GmbH (Germany),Water Shortage Risk,low,Within 5 Years,low,low
+64,Hangzhou Greatstar Industrial.Co.,Zhongshan Geelong Mfg,Water Shortage Risk,low,Within 5 Years,low,low
+65,Hangzhou Greatstar Industrial.Co.,GreatStar Vietnam Base,Water Shortage Risk,low,Within 5 Years,very_low,low
+66,Hangzhou Greatstar Industrial.Co.,GreatStar Thailand Base,Water Shortage Risk,medium,Within 5 Years,very_high,very_low
+67,Hangzhou Greatstar Industrial.Co.,Haining GreatStar Hub,Water Shortage Risk,low,Within 5 Years,low,low
+68,Hangzhou Greatstar Industrial.Co.,Goldblatt / GreatStar R&D,Water Shortage Risk,low,Within 5 Years,low,low
+69,Hangzhou Greatstar Industrial.Co.,GreatStar Changzhou Base,Water Shortage Risk,low,Within 5 Years,low,low
+70,Hangzhou Greatstar Industrial.Co.,Xiaoshan Logistics Base,Water Shortage Risk,low,Within 5 Years,low,low
+71,Perrigo Company,Global Headquarters,Water Shortage Risk,low,Within 5 Years,very_low,low
+72,Perrigo Company,N. American Corporate HQ,Water Shortage Risk,low,Within 5 Years,low,low
+73,Perrigo Company,Allegan Main Campus,Water Shortage Risk,low,Within 5 Years,low,low
+74,Perrigo Company,Allegan Water St Plant,Water Shortage Risk,low,Within 5 Years,low,low
+75,Perrigo Company,Eau Claire Facility,Water Shortage Risk,medium,Within 5 Years,high,low
+76,Perrigo Company,PBM Nutritionals (Vermont),Water Shortage Risk,low,Within 5 Years,low,low
+77,Perrigo Company,Perrigo Direct Hub,Water Shortage Risk,low,Within 5 Years,low,low
+78,Perrigo Company,Omaha Logistics Center,Water Shortage Risk,low,Within 5 Years,low,low
+79,Perrigo Company,Perrigo Israel (Yeruham),Water Shortage Risk,medium,Within 5 Years,very_high,very_low
+80,Perrigo Company,Perrigo Mexico,Water Shortage Risk,medium,Within 5 Years,very_high,very_low
+81,Perrigo Company,Wrafton Laboratories (UK),Water Shortage Risk,low,Within 5 Years,low,low
+82,Perrigo Company,Galpharm International,Water Shortage Risk,low,Within 5 Years,low,low
+83,Perrigo Company,Rosemont Pharmaceuticals,Water Shortage Risk,low,Within 5 Years,very_low,low
+84,Perrigo Company,HRA Pharma Global HQ,Water Shortage Risk,low,Within 5 Years,low,low
+85,Perrigo Company,HRA Pharma US,Water Shortage Risk,low,Within 5 Years,low,low
+86,The Hain Celestial Group,Global Headquarters,Water Shortage Risk,low,Within 5 Years,low,low
+87,The Hain Celestial Group,Celestial Seasonings,Water Shortage Risk,medium,Within 5 Years,very_high,low
+88,The Hain Celestial Group,Hain Personal Care Hub,Water Shortage Risk,medium,Within 5 Years,very_high,very_low
+89,The Hain Celestial Group,Hain Celestial Canada HQ,Water Shortage Risk,low,Within 5 Years,medium,low
+90,The Hain Celestial Group,Mississauga Facility,Water Shortage Risk,low,Within 5 Years,medium,low
+91,The Hain Celestial Group,Hain Daniels (Fakenham),Water Shortage Risk,low,Within 5 Years,very_low,low
+92,The Hain Celestial Group,Hain Daniels (Histon),Water Shortage Risk,low,Within 5 Years,low,low
+93,The Hain Celestial Group,Fresh Innovation Centre,Water Shortage Risk,low,Within 5 Years,medium,low
+94,The Hain Celestial Group,Ella’s Kitchen HQ,Water Shortage Risk,low,Within 5 Years,medium,low
+95,The Hain Celestial Group,Natumi GmbH,Water Shortage Risk,low,Within 5 Years,very_low,low
+96,The Hain Celestial Group,Mona Naturprodukte (Joya),Water Shortage Risk,low,Within 5 Years,low,low
+97,The Hain Celestial Group,Cully & Sully,Water Shortage Risk,low,Within 5 Years,low,low
+98,The Hain Celestial Group,Yorkshire Provender,Water Shortage Risk,low,Within 5 Years,very_low,low
+99,ZURU LLC.,ZURU Global HQ,Water Shortage Risk,low,Within 5 Years,low,low
+100,ZURU LLC.,ZURU US Flagship Campus,Water Shortage Risk,medium,Within 5 Years,very_high,very_low
+101,ZURU LLC.,ZURU Shenzhen Hub,Water Shortage Risk,low,Within 5 Years,low,low
+102,ZURU LLC.,ZURU Huizhou Smart Factory,Water Shortage Risk,low,Within 5 Years,very_low,low
+103,ZURU LLC.,ZURU Guangzhou Plant,Water Shortage Risk,low,Within 5 Years,low,low
+104,ZURU LLC.,ZURU New Zealand HQ,Water Shortage Risk,low,Within 5 Years,very_low,low
+105,ZURU LLC.,ZURU Tech Italy (Modena),Water Shortage Risk,low,Within 5 Years,low,low
+106,ZURU LLC.,ZURU Tech India (Ahmedabad),Water Shortage Risk,medium,Within 5 Years,very_high,very_low
+107,ZURU LLC.,ZURU Tech India (Kolkata),Water Shortage Risk,very_low,Within 5 Years,very_low,very_low
+108,ZURU LLC.,ZURU Bentonville Office,Water Shortage Risk,low,Within 5 Years,low,low
+109,ZURU LLC.,ZURU Tech Italy (Milan),Water Shortage Risk,low,Within 5 Years,low,low
+110,ZURU LLC.,ZURU Dongguan Tech Center,Water Shortage Risk,low,Within 5 Years,very_low,low
+111,John Paul Mitchell Systems,Global Headquarters,Water Shortage Risk,medium,Within 5 Years,very_high,very_low
+112,John Paul Mitchell Systems,JPMS Creative Center,Water Shortage Risk,medium,Within 5 Years,very_high,very_low
+113,John Paul Mitchell Systems,Santa Clarita DC,Water Shortage Risk,medium,Within 5 Years,very_high,very_low
+114,John Paul Mitchell Systems,The Awapuhi Farm,Water Shortage Risk,low,Within 5 Years,very_low,low
+115,John Paul Mitchell Systems,JPMS UK (Salon Success),Water Shortage Risk,low,Within 5 Years,low,low
+116,John Paul Mitchell Systems,JPMS European Hub,Water Shortage Risk,low,Within 5 Years,low,low
+117,John Paul Mitchell Systems,Pro-motive (Subsidiary),Water Shortage Risk,medium,Within 5 Years,very_high,very_low
+118,John Paul Mitchell Systems,Distribution Center East,Water Shortage Risk,low,Within 5 Years,low,low
+119,"Natural Organics, Inc.",Global Headquarters,Water Shortage Risk,medium,Within 5 Years,very_high,low
+120,"Natural Organics, Inc.",Melville Manufacturing,Water Shortage Risk,medium,Within 5 Years,very_high,low
+121,"Natural Organics, Inc.","The ""Pharma-Lab""",Water Shortage Risk,medium,Within 5 Years,very_high,low
+122,"Natural Organics, Inc.",Melville Distribution,Water Shortage Risk,medium,Within 5 Years,very_high,low
+123,"Natural Organics, Inc.",Amityville Facility,Water Shortage Risk,medium,Within 5 Years,very_high,low
+124,"Natural Organics, Inc.",Nature’s Plus UK,Water Shortage Risk,low,Within 5 Years,medium,low
+125,"Natural Organics, Inc.",Euro-Nutrition Hub,Water Shortage Risk,low,Within 5 Years,very_low,low

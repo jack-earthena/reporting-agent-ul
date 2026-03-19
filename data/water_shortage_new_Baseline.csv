@@ -1,0 +1,127 @@
+,supplier_name,facility_name,risk_type,risk_level,timeframe,water_stress,drought_risk
+0,Garmin International,Global Headquarters,Water Shortage Risk,low,Baseline,low,medium
+1,Garmin International,Olathe Manufacturing,Water Shortage Risk,low,Baseline,low,medium
+2,Garmin International,Garmin Salem,Water Shortage Risk,very_low,Baseline,,low
+3,Garmin International,Garmin Chandler,Water Shortage Risk,medium,Baseline,very_high,low
+4,Garmin International,Lin Kou Plant (Taiwan),Water Shortage Risk,very_low,Baseline,low,
+5,Garmin International,Zhongli Plant (Taiwan),Water Shortage Risk,very_low,Baseline,low,
+6,Garmin International,Tainan Plant (Taiwan),Water Shortage Risk,very_low,Baseline,low,
+7,Garmin International,Garmin Europe HQ,Water Shortage Risk,medium,Baseline,medium,high
+8,Garmin International,Würzburg R&D (Germany),Water Shortage Risk,medium,Baseline,high,medium
+9,Garmin International,Garmin Cluj (Romania),Water Shortage Risk,medium,Baseline,low,high
+10,Garmin International,Garmin Singapore,Water Shortage Risk,low,Baseline,,medium
+11,Garmin International,Garmin Birtley (UK),Water Shortage Risk,low,Baseline,very_low,high
+12,Garmin International,Garmin Australasia,Water Shortage Risk,medium,Baseline,high,low
+13,Techtronic Industries,TTI Innovation Center,Water Shortage Risk,low,Baseline,medium,low
+14,Techtronic Industries,Milwaukee Tool Global HQ,Water Shortage Risk,medium,Baseline,medium,medium
+15,Techtronic Industries,Milwaukee Tool Jackson Plant,Water Shortage Risk,medium,Baseline,medium,medium
+16,Techtronic Industries,Milwaukee Tool Grenada Plant,Water Shortage Risk,low,Baseline,,medium
+17,Techtronic Industries,Milwaukee Tool Greenwood Plant,Water Shortage Risk,low,Baseline,,medium
+18,Techtronic Industries,Milwaukee Tool Olive Branch DC,Water Shortage Risk,low,Baseline,,medium
+19,Techtronic Industries,Milwaukee Tool Clinton Plant,Water Shortage Risk,low,Baseline,,medium
+20,Techtronic Industries,Milwaukee Tool West Bend,Water Shortage Risk,medium,Baseline,medium,medium
+21,Techtronic Industries,Empire Level (Subsidiary),Water Shortage Risk,medium,Baseline,very_high,medium
+22,Techtronic Industries,Milwaukee Tool Torreon,Water Shortage Risk,high,Baseline,very_high,medium
+23,Techtronic Industries,TTI Floor Care N.A.,Water Shortage Risk,medium,Baseline,very_high,low
+24,Techtronic Industries,TTI Dongguan Hub,Water Shortage Risk,medium,Baseline,low,medium
+25,Techtronic Industries,TTI Vietnam (SHTP),Water Shortage Risk,low,Baseline,low,medium
+26,Techtronic Industries,DreBo Werkzeugfabrik,Water Shortage Risk,low,Baseline,very_low,medium
+27,Techtronic Industries,Ryobi Die Casting (USA),Water Shortage Risk,medium,Baseline,medium,medium
+28,"S.C. Johnson & Son, Inc.",Global Corporate HQ,Water Shortage Risk,medium,Baseline,medium,medium
+29,"S.C. Johnson & Son, Inc.",Waxdale Facility,Water Shortage Risk,medium,Baseline,medium,medium
+30,"S.C. Johnson & Son, Inc.",Ziploc Bay City Plant,Water Shortage Risk,low,Baseline,medium,medium
+31,"S.C. Johnson & Son, Inc.",North America HQ,Water Shortage Risk,medium,Baseline,high,medium
+32,"S.C. Johnson & Son, Inc.","Method ""Soapbox""",Water Shortage Risk,medium,Baseline,high,medium
+33,"S.C. Johnson & Son, Inc.",SC Johnson Professional HQ,Water Shortage Risk,medium,Baseline,high,low
+34,"S.C. Johnson & Son, Inc.",Stanley Plant (SCJP),Water Shortage Risk,medium,Baseline,medium,low
+35,"S.C. Johnson & Son, Inc.",SCJ Europlant,Water Shortage Risk,low,Baseline,very_low,medium
+36,"S.C. Johnson & Son, Inc.",European Headquarters (Rolle),Water Shortage Risk,low,Baseline,very_low,medium
+37,"S.C. Johnson & Son, Inc.",Gorzów Manufacturing,Water Shortage Risk,low,Baseline,,high
+38,"S.C. Johnson & Son, Inc.",Rosslyn Factory,Water Shortage Risk,high,Baseline,very_high,high
+39,"S.C. Johnson & Son, Inc.",Shanghai Johnson Ltd,Water Shortage Risk,high,Baseline,very_high,high
+40,"S.C. Johnson & Son, Inc.",SC Johnson Vietnam,Water Shortage Risk,low,Baseline,low,medium
+41,"S.C. Johnson & Son, Inc.",LATAM Regional HQ,Water Shortage Risk,medium,Baseline,,high
+42,"S.C. Johnson & Son, Inc.",Pilar Manufacturing,Water Shortage Risk,medium,Baseline,,high
+43,"S.C. Johnson & Son, Inc.",Toluca Plant,Water Shortage Risk,medium,Baseline,high,medium
+44,"GOJO Industries, Inc.",Global Headquarters,Water Shortage Risk,low,Baseline,low,low
+45,"GOJO Industries, Inc.",Lippman Campus (Stow),Water Shortage Risk,low,Baseline,low,low
+46,"GOJO Industries, Inc.",Cuyahoga Falls Plant,Water Shortage Risk,low,Baseline,low,low
+47,"GOJO Industries, Inc.",Wooster Facility,Water Shortage Risk,medium,Baseline,medium,medium
+48,"GOJO Industries, Inc.",Maple Heights Plant,Water Shortage Risk,low,Baseline,low,low
+49,"GOJO Industries, Inc.",Ashland Dist. Center,Water Shortage Risk,medium,Baseline,medium,medium
+50,"GOJO Industries, Inc.",Navarre Warehouse,Water Shortage Risk,medium,Baseline,medium,medium
+51,"GOJO Industries, Inc.",GOJO Europe (UK HQ),Water Shortage Risk,medium,Baseline,low,high
+52,"GOJO Industries, Inc.",GOJO France SARL,Water Shortage Risk,high,Baseline,very_high,medium
+53,"GOJO Industries, Inc.",GOJO Australasia,Water Shortage Risk,medium,Baseline,high,low
+54,"GOJO Industries, Inc.","GOJO Japan, Inc.",Water Shortage Risk,medium,Baseline,medium,medium
+55,"GOJO Industries, Inc.",GOJO América Latina,Water Shortage Risk,low,Baseline,,medium
+56,"GOJO Industries, Inc.",GOJO Canada Inc.,Water Shortage Risk,low,Baseline,high,low
+57,Hangzhou Greatstar Industrial.Co.,Global Headquarters,Water Shortage Risk,low,Baseline,very_low,medium
+58,Hangzhou Greatstar Industrial.Co.,GreatStar Industrial USA,Water Shortage Risk,medium,Baseline,medium,low
+59,Hangzhou Greatstar Industrial.Co.,Arrow Fastener Co. HQ,Water Shortage Risk,low,Baseline,very_low,low
+60,Hangzhou Greatstar Industrial.Co.,Shop-Vac / SK Tools USA,Water Shortage Risk,low,Baseline,low,low
+61,Hangzhou Greatstar Industrial.Co.,Prime-Line Products,Water Shortage Risk,high,Baseline,very_high,low
+62,Hangzhou Greatstar Industrial.Co.,LISTA AG (Switzerland),Water Shortage Risk,low,Baseline,very_low,medium
+63,Hangzhou Greatstar Industrial.Co.,BeA GmbH (Germany),Water Shortage Risk,low,Baseline,very_low,medium
+64,Hangzhou Greatstar Industrial.Co.,Zhongshan Geelong Mfg,Water Shortage Risk,low,Baseline,,medium
+65,Hangzhou Greatstar Industrial.Co.,GreatStar Vietnam Base,Water Shortage Risk,medium,Baseline,low,medium
+66,Hangzhou Greatstar Industrial.Co.,GreatStar Thailand Base,Water Shortage Risk,high,Baseline,very_high,high
+67,Hangzhou Greatstar Industrial.Co.,Haining GreatStar Hub,Water Shortage Risk,low,Baseline,very_low,medium
+68,Hangzhou Greatstar Industrial.Co.,Goldblatt / GreatStar R&D,Water Shortage Risk,low,Baseline,,medium
+69,Hangzhou Greatstar Industrial.Co.,GreatStar Changzhou Base,Water Shortage Risk,medium,Baseline,medium,high
+70,Hangzhou Greatstar Industrial.Co.,Xiaoshan Logistics Base,Water Shortage Risk,medium,Baseline,medium,medium
+71,Perrigo Company,Global Headquarters,Water Shortage Risk,medium,Baseline,low,medium
+72,Perrigo Company,N. American Corporate HQ,Water Shortage Risk,low,Baseline,,medium
+73,Perrigo Company,Allegan Main Campus,Water Shortage Risk,medium,Baseline,medium,medium
+74,Perrigo Company,Allegan Water St Plant,Water Shortage Risk,medium,Baseline,medium,medium
+75,Perrigo Company,Eau Claire Facility,Water Shortage Risk,medium,Baseline,medium,medium
+76,Perrigo Company,PBM Nutritionals (Vermont),Water Shortage Risk,very_low,Baseline,,low
+77,Perrigo Company,Perrigo Direct Hub,Water Shortage Risk,low,Baseline,low,low
+78,Perrigo Company,Omaha Logistics Center,Water Shortage Risk,low,Baseline,very_low,medium
+79,Perrigo Company,Perrigo Israel (Yeruham),Water Shortage Risk,low,Baseline,very_high,
+80,Perrigo Company,Perrigo Mexico,Water Shortage Risk,high,Baseline,very_high,medium
+81,Perrigo Company,Wrafton Laboratories (UK),Water Shortage Risk,medium,Baseline,very_low,high
+82,Perrigo Company,Galpharm International,Water Shortage Risk,medium,Baseline,low,high
+83,Perrigo Company,Rosemont Pharmaceuticals,Water Shortage Risk,medium,Baseline,very_low,high
+84,Perrigo Company,HRA Pharma Global HQ,Water Shortage Risk,medium,Baseline,low,high
+85,Perrigo Company,HRA Pharma US,Water Shortage Risk,low,Baseline,very_low,low
+86,The Hain Celestial Group,Global Headquarters,Water Shortage Risk,low,Baseline,medium,low
+87,The Hain Celestial Group,Celestial Seasonings,Water Shortage Risk,high,Baseline,very_high,low
+88,The Hain Celestial Group,Hain Personal Care Hub,Water Shortage Risk,high,Baseline,very_high,low
+89,The Hain Celestial Group,Hain Celestial Canada HQ,Water Shortage Risk,low,Baseline,high,low
+90,The Hain Celestial Group,Mississauga Facility,Water Shortage Risk,low,Baseline,high,low
+91,The Hain Celestial Group,Hain Daniels (Fakenham),Water Shortage Risk,medium,Baseline,low,high
+92,The Hain Celestial Group,Hain Daniels (Histon),Water Shortage Risk,medium,Baseline,low,high
+93,The Hain Celestial Group,Fresh Innovation Centre,Water Shortage Risk,medium,Baseline,high,high
+94,The Hain Celestial Group,Ella’s Kitchen HQ,Water Shortage Risk,medium,Baseline,high,high
+95,The Hain Celestial Group,Natumi GmbH,Water Shortage Risk,low,Baseline,very_low,medium
+96,The Hain Celestial Group,Mona Naturprodukte (Joya),Water Shortage Risk,low,Baseline,,medium
+97,The Hain Celestial Group,Cully & Sully,Water Shortage Risk,low,Baseline,,medium
+98,The Hain Celestial Group,Yorkshire Provender,Water Shortage Risk,medium,Baseline,very_low,high
+99,ZURU LLC.,ZURU Global HQ,Water Shortage Risk,medium,Baseline,low,medium
+100,ZURU LLC.,ZURU US Flagship Campus,Water Shortage Risk,high,Baseline,very_high,low
+101,ZURU LLC.,ZURU Shenzhen Hub,Water Shortage Risk,medium,Baseline,low,medium
+102,ZURU LLC.,ZURU Huizhou Smart Factory,Water Shortage Risk,low,Baseline,very_low,medium
+103,ZURU LLC.,ZURU Guangzhou Plant,Water Shortage Risk,low,Baseline,,medium
+104,ZURU LLC.,ZURU New Zealand HQ,Water Shortage Risk,low,Baseline,,low
+105,ZURU LLC.,ZURU Tech Italy (Modena),Water Shortage Risk,medium,Baseline,,high
+106,ZURU LLC.,ZURU Tech India (Ahmedabad),Water Shortage Risk,very_high,Baseline,very_high,very_high
+107,ZURU LLC.,ZURU Tech India (Kolkata),Water Shortage Risk,medium,Baseline,very_low,high
+108,ZURU LLC.,ZURU Bentonville Office,Water Shortage Risk,low,Baseline,,medium
+109,ZURU LLC.,ZURU Tech Italy (Milan),Water Shortage Risk,medium,Baseline,low,high
+110,ZURU LLC.,ZURU Dongguan Tech Center,Water Shortage Risk,low,Baseline,very_low,medium
+111,John Paul Mitchell Systems,Global Headquarters,Water Shortage Risk,high,Baseline,very_high,low
+112,John Paul Mitchell Systems,JPMS Creative Center,Water Shortage Risk,high,Baseline,very_high,low
+113,John Paul Mitchell Systems,Santa Clarita DC,Water Shortage Risk,high,Baseline,very_high,low
+114,John Paul Mitchell Systems,The Awapuhi Farm,Water Shortage Risk,low,Baseline,medium,low
+115,John Paul Mitchell Systems,JPMS UK (Salon Success),Water Shortage Risk,medium,Baseline,low,high
+116,John Paul Mitchell Systems,JPMS European Hub,Water Shortage Risk,low,Baseline,,medium
+117,John Paul Mitchell Systems,Pro-motive (Subsidiary),Water Shortage Risk,high,Baseline,very_high,low
+118,John Paul Mitchell Systems,Distribution Center East,Water Shortage Risk,low,Baseline,low,medium
+119,"Natural Organics, Inc.",Global Headquarters,Water Shortage Risk,medium,Baseline,very_high,low
+120,"Natural Organics, Inc.",Melville Manufacturing,Water Shortage Risk,medium,Baseline,very_high,low
+121,"Natural Organics, Inc.","The ""Pharma-Lab""",Water Shortage Risk,medium,Baseline,very_high,low
+122,"Natural Organics, Inc.",Melville Distribution,Water Shortage Risk,medium,Baseline,very_high,low
+123,"Natural Organics, Inc.",Amityville Facility,Water Shortage Risk,medium,Baseline,very_high,low
+124,"Natural Organics, Inc.",Nature’s Plus UK,Water Shortage Risk,medium,Baseline,high,high
+125,"Natural Organics, Inc.",Euro-Nutrition Hub,Water Shortage Risk,low,Baseline,very_low,medium

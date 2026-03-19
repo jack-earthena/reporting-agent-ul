@@ -1,0 +1,127 @@
+,supplier_name,facility_name,risk_type,risk_level,timeframe,price_change
+0,Garmin International,Global Headquarters,Energy Price,medium,Within 12 Months,7.4%
+1,Garmin International,Olathe Manufacturing,Energy Price,medium,Within 12 Months,7.4%
+2,Garmin International,Garmin Salem,Energy Price,medium,Within 12 Months,7.4%
+3,Garmin International,Garmin Chandler,Energy Price,medium,Within 12 Months,7.4%
+4,Garmin International,Lin Kou Plant (Taiwan),Energy Price,low,Within 12 Months,14.3%
+5,Garmin International,Zhongli Plant (Taiwan),Energy Price,low,Within 12 Months,14.3%
+6,Garmin International,Tainan Plant (Taiwan),Energy Price,low,Within 12 Months,14.3%
+7,Garmin International,Garmin Europe HQ,Energy Price,medium,Within 12 Months,3.5%
+8,Garmin International,Würzburg R&D (Germany),Energy Price,medium,Within 12 Months,3.5%
+9,Garmin International,Garmin Cluj (Romania),Energy Price,very_high,Within 12 Months,5.5%
+10,Garmin International,Garmin Singapore,Energy Price,low,Within 12 Months,11.0%
+11,Garmin International,Garmin Birtley (UK),Energy Price,medium,Within 12 Months,3.5%
+12,Garmin International,Garmin Australasia,Energy Price,low,Within 12 Months,11.4%
+13,Techtronic Industries,TTI Innovation Center,Energy Price,medium,Within 12 Months,7.4%
+14,Techtronic Industries,Milwaukee Tool Global HQ,Energy Price,medium,Within 12 Months,7.4%
+15,Techtronic Industries,Milwaukee Tool Jackson Plant,Energy Price,medium,Within 12 Months,7.4%
+16,Techtronic Industries,Milwaukee Tool Grenada Plant,Energy Price,medium,Within 12 Months,7.4%
+17,Techtronic Industries,Milwaukee Tool Greenwood Plant,Energy Price,medium,Within 12 Months,7.4%
+18,Techtronic Industries,Milwaukee Tool Olive Branch DC,Energy Price,medium,Within 12 Months,7.4%
+19,Techtronic Industries,Milwaukee Tool Clinton Plant,Energy Price,medium,Within 12 Months,7.4%
+20,Techtronic Industries,Milwaukee Tool West Bend,Energy Price,medium,Within 12 Months,7.4%
+21,Techtronic Industries,Empire Level (Subsidiary),Energy Price,medium,Within 12 Months,7.4%
+22,Techtronic Industries,Milwaukee Tool Torreon,Energy Price,low,Within 12 Months,5.5%
+23,Techtronic Industries,TTI Floor Care N.A.,Energy Price,medium,Within 12 Months,7.4%
+24,Techtronic Industries,TTI Dongguan Hub,Energy Price,low,Within 12 Months,9.1%
+25,Techtronic Industries,TTI Vietnam (SHTP),Energy Price,low,Within 12 Months,11.0%
+26,Techtronic Industries,DreBo Werkzeugfabrik,Energy Price,medium,Within 12 Months,3.5%
+27,Techtronic Industries,Ryobi Die Casting (USA),Energy Price,medium,Within 12 Months,7.4%
+28,"S.C. Johnson & Son, Inc.",Global Corporate HQ,Energy Price,medium,Within 12 Months,7.4%
+29,"S.C. Johnson & Son, Inc.",Waxdale Facility,Energy Price,medium,Within 12 Months,7.4%
+30,"S.C. Johnson & Son, Inc.",Ziploc Bay City Plant,Energy Price,medium,Within 12 Months,7.4%
+31,"S.C. Johnson & Son, Inc.",North America HQ,Energy Price,medium,Within 12 Months,7.4%
+32,"S.C. Johnson & Son, Inc.","Method ""Soapbox""",Energy Price,medium,Within 12 Months,7.4%
+33,"S.C. Johnson & Son, Inc.",SC Johnson Professional HQ,Energy Price,medium,Within 12 Months,7.4%
+34,"S.C. Johnson & Son, Inc.",Stanley Plant (SCJP),Energy Price,medium,Within 12 Months,7.4%
+35,"S.C. Johnson & Son, Inc.",SCJ Europlant,Energy Price,medium,Within 12 Months,3.5%
+36,"S.C. Johnson & Son, Inc.",European Headquarters (Rolle),Energy Price,very_low,Within 12 Months,2.4%
+37,"S.C. Johnson & Son, Inc.",Gorzów Manufacturing,Energy Price,very_high,Within 12 Months,5.5%
+38,"S.C. Johnson & Son, Inc.",Rosslyn Factory,Energy Price,medium,Within 12 Months,23.0%
+39,"S.C. Johnson & Son, Inc.",Shanghai Johnson Ltd,Energy Price,low,Within 12 Months,9.1%
+40,"S.C. Johnson & Son, Inc.",SC Johnson Vietnam,Energy Price,low,Within 12 Months,11.0%
+41,"S.C. Johnson & Son, Inc.",LATAM Regional HQ,Energy Price,very_low,Within 12 Months,5.4%
+42,"S.C. Johnson & Son, Inc.",Pilar Manufacturing,Energy Price,very_low,Within 12 Months,5.4%
+43,"S.C. Johnson & Son, Inc.",Toluca Plant,Energy Price,low,Within 12 Months,5.5%
+44,"GOJO Industries, Inc.",Global Headquarters,Energy Price,medium,Within 12 Months,7.4%
+45,"GOJO Industries, Inc.",Lippman Campus (Stow),Energy Price,medium,Within 12 Months,7.4%
+46,"GOJO Industries, Inc.",Cuyahoga Falls Plant,Energy Price,medium,Within 12 Months,7.4%
+47,"GOJO Industries, Inc.",Wooster Facility,Energy Price,medium,Within 12 Months,7.4%
+48,"GOJO Industries, Inc.",Maple Heights Plant,Energy Price,medium,Within 12 Months,7.4%
+49,"GOJO Industries, Inc.",Ashland Dist. Center,Energy Price,medium,Within 12 Months,7.4%
+50,"GOJO Industries, Inc.",Navarre Warehouse,Energy Price,medium,Within 12 Months,7.4%
+51,"GOJO Industries, Inc.",GOJO Europe (UK HQ),Energy Price,medium,Within 12 Months,3.5%
+52,"GOJO Industries, Inc.",GOJO France SARL,Energy Price,medium,Within 12 Months,3.5%
+53,"GOJO Industries, Inc.",GOJO Australasia,Energy Price,low,Within 12 Months,11.4%
+54,"GOJO Industries, Inc.","GOJO Japan, Inc.",Energy Price,medium,Within 12 Months,7.5%
+55,"GOJO Industries, Inc.",GOJO América Latina,Energy Price,low,Within 12 Months,5.2%
+56,"GOJO Industries, Inc.",GOJO Canada Inc.,Energy Price,medium,Within 12 Months,5.9%
+57,Hangzhou Greatstar Industrial.Co.,Global Headquarters,Energy Price,low,Within 12 Months,9.1%
+58,Hangzhou Greatstar Industrial.Co.,GreatStar Industrial USA,Energy Price,medium,Within 12 Months,7.4%
+59,Hangzhou Greatstar Industrial.Co.,Arrow Fastener Co. HQ,Energy Price,medium,Within 12 Months,7.4%
+60,Hangzhou Greatstar Industrial.Co.,Shop-Vac / SK Tools USA,Energy Price,medium,Within 12 Months,7.4%
+61,Hangzhou Greatstar Industrial.Co.,Prime-Line Products,Energy Price,medium,Within 12 Months,7.4%
+62,Hangzhou Greatstar Industrial.Co.,LISTA AG (Switzerland),Energy Price,very_low,Within 12 Months,2.4%
+63,Hangzhou Greatstar Industrial.Co.,BeA GmbH (Germany),Energy Price,medium,Within 12 Months,3.5%
+64,Hangzhou Greatstar Industrial.Co.,Zhongshan Geelong Mfg,Energy Price,low,Within 12 Months,9.1%
+65,Hangzhou Greatstar Industrial.Co.,GreatStar Vietnam Base,Energy Price,low,Within 12 Months,11.0%
+66,Hangzhou Greatstar Industrial.Co.,GreatStar Thailand Base,Energy Price,low,Within 12 Months,11.0%
+67,Hangzhou Greatstar Industrial.Co.,Haining GreatStar Hub,Energy Price,low,Within 12 Months,9.1%
+68,Hangzhou Greatstar Industrial.Co.,Goldblatt / GreatStar R&D,Energy Price,medium,Within 12 Months,7.4%
+69,Hangzhou Greatstar Industrial.Co.,GreatStar Changzhou Base,Energy Price,low,Within 12 Months,9.1%
+70,Hangzhou Greatstar Industrial.Co.,Xiaoshan Logistics Base,Energy Price,low,Within 12 Months,9.1%
+71,Perrigo Company,Global Headquarters,Energy Price,medium,Within 12 Months,3.5%
+72,Perrigo Company,N. American Corporate HQ,Energy Price,medium,Within 12 Months,7.4%
+73,Perrigo Company,Allegan Main Campus,Energy Price,medium,Within 12 Months,7.4%
+74,Perrigo Company,Allegan Water St Plant,Energy Price,medium,Within 12 Months,7.4%
+75,Perrigo Company,Eau Claire Facility,Energy Price,medium,Within 12 Months,7.4%
+76,Perrigo Company,PBM Nutritionals (Vermont),Energy Price,medium,Within 12 Months,7.4%
+77,Perrigo Company,Perrigo Direct Hub,Energy Price,medium,Within 12 Months,7.4%
+78,Perrigo Company,Omaha Logistics Center,Energy Price,medium,Within 12 Months,7.4%
+79,Perrigo Company,Perrigo Israel (Yeruham),Energy Price,high,Within 12 Months,1.2%
+80,Perrigo Company,Perrigo Mexico,Energy Price,low,Within 12 Months,5.5%
+81,Perrigo Company,Wrafton Laboratories (UK),Energy Price,medium,Within 12 Months,3.5%
+82,Perrigo Company,Galpharm International,Energy Price,medium,Within 12 Months,3.5%
+83,Perrigo Company,Rosemont Pharmaceuticals,Energy Price,medium,Within 12 Months,3.5%
+84,Perrigo Company,HRA Pharma Global HQ,Energy Price,medium,Within 12 Months,3.5%
+85,Perrigo Company,HRA Pharma US,Energy Price,medium,Within 12 Months,7.4%
+86,The Hain Celestial Group,Global Headquarters,Energy Price,medium,Within 12 Months,7.4%
+87,The Hain Celestial Group,Celestial Seasonings,Energy Price,medium,Within 12 Months,7.4%
+88,The Hain Celestial Group,Hain Personal Care Hub,Energy Price,medium,Within 12 Months,7.4%
+89,The Hain Celestial Group,Hain Celestial Canada HQ,Energy Price,medium,Within 12 Months,5.9%
+90,The Hain Celestial Group,Mississauga Facility,Energy Price,medium,Within 12 Months,5.9%
+91,The Hain Celestial Group,Hain Daniels (Fakenham),Energy Price,medium,Within 12 Months,3.5%
+92,The Hain Celestial Group,Hain Daniels (Histon),Energy Price,medium,Within 12 Months,3.5%
+93,The Hain Celestial Group,Fresh Innovation Centre,Energy Price,medium,Within 12 Months,3.5%
+94,The Hain Celestial Group,Ella’s Kitchen HQ,Energy Price,medium,Within 12 Months,3.5%
+95,The Hain Celestial Group,Natumi GmbH,Energy Price,medium,Within 12 Months,3.5%
+96,The Hain Celestial Group,Mona Naturprodukte (Joya),Energy Price,medium,Within 12 Months,3.5%
+97,The Hain Celestial Group,Cully & Sully,Energy Price,medium,Within 12 Months,3.5%
+98,The Hain Celestial Group,Yorkshire Provender,Energy Price,medium,Within 12 Months,3.5%
+99,ZURU LLC.,ZURU Global HQ,Energy Price,low,Within 12 Months,9.1%
+100,ZURU LLC.,ZURU US Flagship Campus,Energy Price,medium,Within 12 Months,7.4%
+101,ZURU LLC.,ZURU Shenzhen Hub,Energy Price,low,Within 12 Months,9.1%
+102,ZURU LLC.,ZURU Huizhou Smart Factory,Energy Price,low,Within 12 Months,9.1%
+103,ZURU LLC.,ZURU Guangzhou Plant,Energy Price,low,Within 12 Months,9.1%
+104,ZURU LLC.,ZURU New Zealand HQ,Energy Price,low,Within 12 Months,11.4%
+105,ZURU LLC.,ZURU Tech Italy (Modena),Energy Price,medium,Within 12 Months,3.5%
+106,ZURU LLC.,ZURU Tech India (Ahmedabad),Energy Price,very_high,Within 12 Months,12.9%
+107,ZURU LLC.,ZURU Tech India (Kolkata),Energy Price,very_high,Within 12 Months,12.9%
+108,ZURU LLC.,ZURU Bentonville Office,Energy Price,medium,Within 12 Months,7.4%
+109,ZURU LLC.,ZURU Tech Italy (Milan),Energy Price,medium,Within 12 Months,3.5%
+110,ZURU LLC.,ZURU Dongguan Tech Center,Energy Price,low,Within 12 Months,9.1%
+111,John Paul Mitchell Systems,Global Headquarters,Energy Price,medium,Within 12 Months,7.4%
+112,John Paul Mitchell Systems,JPMS Creative Center,Energy Price,medium,Within 12 Months,7.4%
+113,John Paul Mitchell Systems,Santa Clarita DC,Energy Price,medium,Within 12 Months,7.4%
+114,John Paul Mitchell Systems,The Awapuhi Farm,Energy Price,medium,Within 12 Months,7.4%
+115,John Paul Mitchell Systems,JPMS UK (Salon Success),Energy Price,medium,Within 12 Months,3.5%
+116,John Paul Mitchell Systems,JPMS European Hub,Energy Price,very_low,Within 12 Months,2.4%
+117,John Paul Mitchell Systems,Pro-motive (Subsidiary),Energy Price,medium,Within 12 Months,7.4%
+118,John Paul Mitchell Systems,Distribution Center East,Energy Price,medium,Within 12 Months,7.4%
+119,"Natural Organics, Inc.",Global Headquarters,Energy Price,medium,Within 12 Months,7.4%
+120,"Natural Organics, Inc.",Melville Manufacturing,Energy Price,medium,Within 12 Months,7.4%
+121,"Natural Organics, Inc.","The ""Pharma-Lab""",Energy Price,medium,Within 12 Months,7.4%
+122,"Natural Organics, Inc.",Melville Distribution,Energy Price,medium,Within 12 Months,7.4%
+123,"Natural Organics, Inc.",Amityville Facility,Energy Price,medium,Within 12 Months,7.4%
+124,"Natural Organics, Inc.",Nature’s Plus UK,Energy Price,medium,Within 12 Months,3.5%
+125,"Natural Organics, Inc.",Euro-Nutrition Hub,Energy Price,medium,Within 12 Months,3.5%

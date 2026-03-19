@@ -1,0 +1,127 @@
+supplier_name,site_name,lat,lon
+Garmin International,Global Headquarters,38.8558,-94.79970000000003
+Garmin International,Olathe Manufacturing,38.8558,-94.79970000000003
+Garmin International,Garmin Salem,44.9125,-123.0035
+Garmin International,Garmin Chandler,33.2798,-111.8672
+Garmin International,Lin Kou Plant (Taiwan),25.0622,121.6441
+Garmin International,Zhongli Plant (Taiwan),24.9754,121.2681
+Garmin International,Tainan Plant (Taiwan),23.0487,120.1985
+Garmin International,Garmin Europe HQ,50.9168,-1.4925000000000068
+Garmin International,Würzburg R&D (Germany),49.8001,9.9405
+Garmin International,Garmin Cluj (Romania),46.7772,23.5937
+Garmin International,Garmin Singapore,1.2755,103.8011
+Garmin International,Garmin Birtley (UK),54.8961,-1.5713999999999828
+Garmin International,Garmin Australasia,-33.8012,150.8421
+Techtronic Industries,TTI Innovation Center,34.63,-82.60809999999998
+Techtronic Industries,Milwaukee Tool Global HQ,43.0943,-88.0747
+Techtronic Industries,Milwaukee Tool Jackson Plant,32.3278,-90.23109999999997
+Techtronic Industries,Milwaukee Tool Grenada Plant,33.7845,-89.84559999999999
+Techtronic Industries,Milwaukee Tool Greenwood Plant,33.5358,-90.16949999999997
+Techtronic Industries,Milwaukee Tool Olive Branch DC,34.9575,-89.81639999999999
+Techtronic Industries,Milwaukee Tool Clinton Plant,32.3686,-90.31639999999999
+Techtronic Industries,Milwaukee Tool West Bend,43.3828,-88.16390000000001
+Techtronic Industries,Empire Level (Subsidiary),42.8574,-88.31819999999999
+Techtronic Industries,Milwaukee Tool Torreon,25.5684,-103.3512
+Techtronic Industries,TTI Floor Care N.A.,35.3114,-80.7681
+Techtronic Industries,TTI Dongguan Hub,22.8421,113.6823
+Techtronic Industries,TTI Vietnam (SHTP),10.8436,106.8041
+Techtronic Industries,DreBo Werkzeugfabrik,47.9304,9.5447
+Techtronic Industries,Ryobi Die Casting (USA),39.5397,-85.79520000000002
+"S.C. Johnson & Son, Inc.",Global Corporate HQ,42.7161,-87.79149999999998
+"S.C. Johnson & Son, Inc.",Waxdale Facility,42.7011,-87.89670000000001
+"S.C. Johnson & Son, Inc.",Ziploc Bay City Plant,43.6191,-83.8347
+"S.C. Johnson & Son, Inc.",North America HQ,41.8829,-87.64159999999998
+"S.C. Johnson & Son, Inc.","Method ""Soapbox""",41.6931,-87.60669999999999
+"S.C. Johnson & Son, Inc.",SC Johnson Professional HQ,35.1842,-80.92539999999997
+"S.C. Johnson & Son, Inc.",Stanley Plant (SCJP),35.3524,-81.0858
+"S.C. Johnson & Son, Inc.",SCJ Europlant,52.2137,4.8693
+"S.C. Johnson & Son, Inc.",European Headquarters (Rolle),46.4678,6.3312
+"S.C. Johnson & Son, Inc.",Gorzów Manufacturing,52.7201,15.2078
+"S.C. Johnson & Son, Inc.",Rosslyn Factory,-25.6253,28.0967
+"S.C. Johnson & Son, Inc.",Shanghai Johnson Ltd,31.2464,121.6141
+"S.C. Johnson & Son, Inc.",SC Johnson Vietnam,10.9061,106.7324
+"S.C. Johnson & Son, Inc.",LATAM Regional HQ,-34.4984,-58.572400000000016
+"S.C. Johnson & Son, Inc.",Pilar Manufacturing,-34.4258,-58.91410000000002
+"S.C. Johnson & Son, Inc.",Toluca Plant,19.3175,-99.55920000000003
+"GOJO Industries, Inc.",Global Headquarters,41.0722,-81.5204
+"GOJO Industries, Inc.",Lippman Campus (Stow),41.1685,-81.46460000000002
+"GOJO Industries, Inc.",Cuyahoga Falls Plant,41.1745,-81.5084
+"GOJO Industries, Inc.",Wooster Facility,40.8306,-81.91230000000002
+"GOJO Industries, Inc.",Maple Heights Plant,41.4087,-81.55830000000003
+"GOJO Industries, Inc.",Ashland Dist. Center,40.856,-82.28179999999998
+"GOJO Industries, Inc.",Navarre Warehouse,40.7303,-81.51729999999998
+"GOJO Industries, Inc.",GOJO Europe (UK HQ),52.0315,-0.6859999999999786
+"GOJO Industries, Inc.",GOJO France SARL,50.6278,3.0645
+"GOJO Industries, Inc.",GOJO Australasia,-33.936,151.206
+"GOJO Industries, Inc.","GOJO Japan, Inc.",35.6917,139.7675
+"GOJO Industries, Inc.",GOJO América Latina,-22.9234,-45.441100000000006
+"GOJO Industries, Inc.",GOJO Canada Inc.,43.8236,-79.0838
+Hangzhou Greatstar Industrial.Co.,Global Headquarters,30.3061,120.2604
+Hangzhou Greatstar Industrial.Co.,GreatStar Industrial USA,35.4414,-80.86540000000002
+Hangzhou Greatstar Industrial.Co.,Arrow Fastener Co. HQ,40.8936,-74.06279999999998
+Hangzhou Greatstar Industrial.Co.,Shop-Vac / SK Tools USA,41.2335,-77.06240000000003
+Hangzhou Greatstar Industrial.Co.,Prime-Line Products,34.0638,-117.2185
+Hangzhou Greatstar Industrial.Co.,LISTA AG (Switzerland),47.5492,9.2285
+Hangzhou Greatstar Industrial.Co.,BeA GmbH (Germany),53.6664,10.2443
+Hangzhou Greatstar Industrial.Co.,Zhongshan Geelong Mfg,22.6139,113.1814
+Hangzhou Greatstar Industrial.Co.,GreatStar Vietnam Base,20.8354,106.7643
+Hangzhou Greatstar Industrial.Co.,GreatStar Thailand Base,13.9167,101.5583
+Hangzhou Greatstar Industrial.Co.,Haining GreatStar Hub,30.4561,120.4852
+Hangzhou Greatstar Industrial.Co.,Goldblatt / GreatStar R&D,39.2783,-94.6789
+Hangzhou Greatstar Industrial.Co.,GreatStar Changzhou Base,31.8111,119.9741
+Hangzhou Greatstar Industrial.Co.,Xiaoshan Logistics Base,30.2031,120.4721
+Perrigo Company,Global Headquarters,53.3394,-6.248299999999972
+Perrigo Company,N. American Corporate HQ,42.9712,-85.67579999999998
+Perrigo Company,Allegan Main Campus,42.5222,-85.8458
+Perrigo Company,Allegan Water St Plant,42.5278,-85.84860000000003
+Perrigo Company,Eau Claire Facility,44.8524,-91.54919999999998
+Perrigo Company,PBM Nutritionals (Vermont),44.7554,-73.11680000000001
+Perrigo Company,Perrigo Direct Hub,33.3732,-84.58280000000002
+Perrigo Company,Omaha Logistics Center,41.1856,-96.12180000000001
+Perrigo Company,Perrigo Israel (Yeruham),30.9881,34.9282
+Perrigo Company,Perrigo Mexico,25.5325,-100.93279999999999
+Perrigo Company,Wrafton Laboratories (UK),51.1022,-4.148799999999994
+Perrigo Company,Galpharm International,53.5658,-1.5033999999999992
+Perrigo Company,Rosemont Pharmaceuticals,53.7842,-1.5541999999999803
+Perrigo Company,HRA Pharma Global HQ,48.8034,2.2908
+Perrigo Company,HRA Pharma US,40.7974,-74.48419999999999
+The Hain Celestial Group,Global Headquarters,40.7383,-74.02710000000002
+The Hain Celestial Group,Celestial Seasonings,40.0384,-105.19730000000001
+The Hain Celestial Group,Hain Personal Care Hub,34.1297,-117.9076
+The Hain Celestial Group,Hain Celestial Canada HQ,43.6934,-79.59379999999999
+The Hain Celestial Group,Mississauga Facility,43.6187,-79.64409999999998
+The Hain Celestial Group,Hain Daniels (Fakenham),52.8361,0.8653
+The Hain Celestial Group,Hain Daniels (Histon),52.2472,0.1147
+The Hain Celestial Group,Fresh Innovation Centre,51.8787,-0.4200000000000159
+The Hain Celestial Group,Ella’s Kitchen HQ,51.5362,-0.9015999999999735
+The Hain Celestial Group,Natumi GmbH,50.8142,7.1472
+The Hain Celestial Group,Mona Naturprodukte (Joya),48.0416,14.417
+The Hain Celestial Group,Cully & Sully,51.8904,-8.452600000000018
+The Hain Celestial Group,Yorkshire Provender,54.3005,-1.5541999999999803
+ZURU LLC.,ZURU Global HQ,22.3001,114.1783
+ZURU LLC.,ZURU US Flagship Campus,33.9224,-118.3888
+ZURU LLC.,ZURU Shenzhen Hub,22.5404,114.1264
+ZURU LLC.,ZURU Huizhou Smart Factory,23.0165,114.3324
+ZURU LLC.,ZURU Guangzhou Plant,22.9348,113.3842
+ZURU LLC.,ZURU New Zealand HQ,-36.8504,174.7505
+ZURU LLC.,ZURU Tech Italy (Modena),44.6436,10.9022
+ZURU LLC.,ZURU Tech India (Ahmedabad),23.0232,72.5292
+ZURU LLC.,ZURU Tech India (Kolkata),22.5489,88.3512
+ZURU LLC.,ZURU Bentonville Office,36.3582,-94.21140000000003
+ZURU LLC.,ZURU Tech Italy (Milan),45.4661,9.1795
+ZURU LLC.,ZURU Dongguan Tech Center,22.8764,113.8821
+John Paul Mitchell Systems,Global Headquarters,34.4172,-118.50649999999999
+John Paul Mitchell Systems,JPMS Creative Center,34.0673,-118.40639999999999
+John Paul Mitchell Systems,Santa Clarita DC,34.4181,-118.50819999999999
+John Paul Mitchell Systems,The Awapuhi Farm,20.0384,-155.3621
+John Paul Mitchell Systems,JPMS UK (Salon Success),52.6465,-1.6811999999999898
+John Paul Mitchell Systems,JPMS European Hub,47.1783,8.4975
+John Paul Mitchell Systems,Pro-motive (Subsidiary),34.4341,-118.56379999999999
+John Paul Mitchell Systems,Distribution Center East,38.8951,-94.38120000000004
+"Natural Organics, Inc.",Global Headquarters,40.7547,-73.42779999999999
+"Natural Organics, Inc.",Melville Manufacturing,40.7547,-73.42779999999999
+"Natural Organics, Inc.","The ""Pharma-Lab""",40.7578,-73.42509999999999
+"Natural Organics, Inc.",Melville Distribution,40.7582,-73.4239
+"Natural Organics, Inc.",Amityville Facility,40.7932,-73.11149999999998
+"Natural Organics, Inc.",Nature’s Plus UK,51.5564,-0.39819999999997435
+"Natural Organics, Inc.",Euro-Nutrition Hub,52.3432,4.9174

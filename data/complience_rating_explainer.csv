@@ -1,0 +1,6 @@
+Rating,Definition,Trigger Criteria
+Critical,Immediate Stop-Sale / Seizure,Regulation is currently in effect (as of Q1 2026). Non-compliance results in an immediate legal inability to sell or move product.
+High,Impending Enforcement / Severe Fine,"Regulation has a hard deadline within the next 6 months (e.g., Oct 2026). Requires immediate structural or labeling changes."
+Medium,Reporting / Data Liability,"No immediate ban, but mandates complex historical data collection or new recurring reporting (e.g., EPA TSCA reporting)."
+Low,Regional / Incremental Update,Minor adjustments to existing standards (like VOC limits) that affect specific SKU subsets or regions rather than entire lines.
+,Administrative / Exempt,"Office locations or facilities producing non-regulated ""articles"" with no chemical or hazard disclosure requirements."

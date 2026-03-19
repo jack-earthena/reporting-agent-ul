@@ -1,0 +1,127 @@
+,supplier_name,facility_name,risk_type,risk_level,timeframe,grid_carbon_intensity_gCo2_kwh,fossil_ratio
+0,Garmin International,Global Headquarters,Grid Mix,medium,Baseline,345.6442,0.5808
+1,Garmin International,Olathe Manufacturing,Grid Mix,medium,Baseline,345.6442,0.5808
+2,Garmin International,Garmin Salem,Grid Mix,medium,Baseline,345.6442,0.5808
+3,Garmin International,Garmin Chandler,Grid Mix,medium,Baseline,345.6442,0.5808
+4,Garmin International,Lin Kou Plant (Taiwan),Grid Mix,high,Baseline,556.9851,0.8491
+5,Garmin International,Zhongli Plant (Taiwan),Grid Mix,high,Baseline,556.9851,0.8491
+6,Garmin International,Tainan Plant (Taiwan),Grid Mix,high,Baseline,556.9851,0.8491
+7,Garmin International,Garmin Europe HQ,Grid Mix,low,Baseline,216.6506,0.34009999999999996
+8,Garmin International,Würzburg R&D (Germany),Grid Mix,low,Baseline,322.8136,0.42550000000000004
+9,Garmin International,Garmin Cluj (Romania),Grid Mix,low,Baseline,216.3816,0.3196
+10,Garmin International,Garmin Singapore,Grid Mix,medium,Baseline,480.55299999999994,0.9507
+11,Garmin International,Garmin Birtley (UK),Grid Mix,low,Baseline,216.6506,0.34009999999999996
+12,Garmin International,Garmin Australasia,Grid Mix,medium,Baseline,484.2139000000001,0.6452
+13,Techtronic Industries,TTI Innovation Center,Grid Mix,medium,Baseline,345.6442,0.5808
+14,Techtronic Industries,Milwaukee Tool Global HQ,Grid Mix,medium,Baseline,345.6442,0.5808
+15,Techtronic Industries,Milwaukee Tool Jackson Plant,Grid Mix,medium,Baseline,345.6442,0.5808
+16,Techtronic Industries,Milwaukee Tool Grenada Plant,Grid Mix,medium,Baseline,345.6442,0.5808
+17,Techtronic Industries,Milwaukee Tool Greenwood Plant,Grid Mix,medium,Baseline,345.6442,0.5808
+18,Techtronic Industries,Milwaukee Tool Olive Branch DC,Grid Mix,medium,Baseline,345.6442,0.5808
+19,Techtronic Industries,Milwaukee Tool Clinton Plant,Grid Mix,medium,Baseline,345.6442,0.5808
+20,Techtronic Industries,Milwaukee Tool West Bend,Grid Mix,medium,Baseline,345.6442,0.5808
+21,Techtronic Industries,Empire Level (Subsidiary),Grid Mix,medium,Baseline,345.6442,0.5808
+22,Techtronic Industries,Milwaukee Tool Torreon,Grid Mix,medium,Baseline,412.98679999999996,0.7467999999999999
+23,Techtronic Industries,TTI Floor Care N.A.,Grid Mix,medium,Baseline,345.6442,0.5808
+24,Techtronic Industries,TTI Dongguan Hub,Grid Mix,high,Baseline,510.7212,0.6195
+25,Techtronic Industries,TTI Vietnam (SHTP),Grid Mix,medium,Baseline,447.30269999999996,0.5585
+26,Techtronic Industries,DreBo Werkzeugfabrik,Grid Mix,low,Baseline,322.8136,0.42550000000000004
+27,Techtronic Industries,Ryobi Die Casting (USA),Grid Mix,medium,Baseline,345.6442,0.5808
+28,"S.C. Johnson & Son, Inc.",Global Corporate HQ,Grid Mix,medium,Baseline,345.6442,0.5808
+29,"S.C. Johnson & Son, Inc.",Waxdale Facility,Grid Mix,medium,Baseline,345.6442,0.5808
+30,"S.C. Johnson & Son, Inc.",Ziploc Bay City Plant,Grid Mix,medium,Baseline,345.6442,0.5808
+31,"S.C. Johnson & Son, Inc.",North America HQ,Grid Mix,medium,Baseline,345.6442,0.5808
+32,"S.C. Johnson & Son, Inc.","Method ""Soapbox""",Grid Mix,medium,Baseline,345.6442,0.5808
+33,"S.C. Johnson & Son, Inc.",SC Johnson Professional HQ,Grid Mix,medium,Baseline,345.6442,0.5808
+34,"S.C. Johnson & Son, Inc.",Stanley Plant (SCJP),Grid Mix,medium,Baseline,345.6442,0.5808
+35,"S.C. Johnson & Son, Inc.",SCJ Europlant,Grid Mix,low,Baseline,281.97159999999997,0.4629
+36,"S.C. Johnson & Son, Inc.",European Headquarters (Rolle),Grid Mix,very_low,Baseline,39.301399999999994,0.022799999999999997
+37,"S.C. Johnson & Son, Inc.",Gorzów Manufacturing,Grid Mix,high,Baseline,547.4927000000002,0.7015000000000001
+38,"S.C. Johnson & Son, Inc.",Rosslyn Factory,Grid Mix,very_high,Baseline,687.0652999999998,0.8331999999999999
+39,"S.C. Johnson & Son, Inc.",Shanghai Johnson Ltd,Grid Mix,high,Baseline,510.7212,0.6195
+40,"S.C. Johnson & Son, Inc.",SC Johnson Vietnam,Grid Mix,medium,Baseline,447.30269999999996,0.5585
+41,"S.C. Johnson & Son, Inc.",LATAM Regional HQ,Grid Mix,medium,Baseline,326.10810000000004,0.611
+42,"S.C. Johnson & Son, Inc.",Pilar Manufacturing,Grid Mix,medium,Baseline,326.10810000000004,0.611
+43,"S.C. Johnson & Son, Inc.",Toluca Plant,Grid Mix,medium,Baseline,412.98679999999996,0.7467999999999999
+44,"GOJO Industries, Inc.",Global Headquarters,Grid Mix,medium,Baseline,345.6442,0.5808
+45,"GOJO Industries, Inc.",Lippman Campus (Stow),Grid Mix,medium,Baseline,345.6442,0.5808
+46,"GOJO Industries, Inc.",Cuyahoga Falls Plant,Grid Mix,medium,Baseline,345.6442,0.5808
+47,"GOJO Industries, Inc.",Wooster Facility,Grid Mix,medium,Baseline,345.6442,0.5808
+48,"GOJO Industries, Inc.",Maple Heights Plant,Grid Mix,medium,Baseline,345.6442,0.5808
+49,"GOJO Industries, Inc.",Ashland Dist. Center,Grid Mix,medium,Baseline,345.6442,0.5808
+50,"GOJO Industries, Inc.",Navarre Warehouse,Grid Mix,medium,Baseline,345.6442,0.5808
+51,"GOJO Industries, Inc.",GOJO Europe (UK HQ),Grid Mix,low,Baseline,216.6506,0.34009999999999996
+52,"GOJO Industries, Inc.",GOJO France SARL,Grid Mix,very_low,Baseline,51.5256,0.057499999999999996
+53,"GOJO Industries, Inc.",GOJO Australasia,Grid Mix,medium,Baseline,484.2139000000001,0.6452
+54,"GOJO Industries, Inc.","GOJO Japan, Inc.",Grid Mix,medium,Baseline,464.7522,0.6849999999999999
+55,"GOJO Industries, Inc.",GOJO América Latina,Grid Mix,very_low,Baseline,97.67290000000003,0.10170000000000001
+56,"GOJO Industries, Inc.",GOJO Canada Inc.,Grid Mix,very_low,Baseline,137.44869999999997,0.20729999999999998
+57,Hangzhou Greatstar Industrial.Co.,Global Headquarters,Grid Mix,high,Baseline,510.7212,0.6195
+58,Hangzhou Greatstar Industrial.Co.,GreatStar Industrial USA,Grid Mix,medium,Baseline,345.6442,0.5808
+59,Hangzhou Greatstar Industrial.Co.,Arrow Fastener Co. HQ,Grid Mix,medium,Baseline,345.6442,0.5808
+60,Hangzhou Greatstar Industrial.Co.,Shop-Vac / SK Tools USA,Grid Mix,medium,Baseline,345.6442,0.5808
+61,Hangzhou Greatstar Industrial.Co.,Prime-Line Products,Grid Mix,medium,Baseline,345.6442,0.5808
+62,Hangzhou Greatstar Industrial.Co.,LISTA AG (Switzerland),Grid Mix,very_low,Baseline,39.301399999999994,0.022799999999999997
+63,Hangzhou Greatstar Industrial.Co.,BeA GmbH (Germany),Grid Mix,low,Baseline,322.8136,0.42550000000000004
+64,Hangzhou Greatstar Industrial.Co.,Zhongshan Geelong Mfg,Grid Mix,high,Baseline,510.7212,0.6195
+65,Hangzhou Greatstar Industrial.Co.,GreatStar Vietnam Base,Grid Mix,medium,Baseline,447.30269999999996,0.5585
+66,Hangzhou Greatstar Industrial.Co.,GreatStar Thailand Base,Grid Mix,high,Baseline,490.46400000000006,0.8515
+67,Hangzhou Greatstar Industrial.Co.,Haining GreatStar Hub,Grid Mix,high,Baseline,510.7212,0.6195
+68,Hangzhou Greatstar Industrial.Co.,Goldblatt / GreatStar R&D,Grid Mix,medium,Baseline,345.6442,0.5808
+69,Hangzhou Greatstar Industrial.Co.,GreatStar Changzhou Base,Grid Mix,high,Baseline,510.7212,0.6195
+70,Hangzhou Greatstar Industrial.Co.,Xiaoshan Logistics Base,Grid Mix,high,Baseline,510.7212,0.6195
+71,Perrigo Company,Global Headquarters,Grid Mix,low,Baseline,295.8929,0.5468000000000001
+72,Perrigo Company,N. American Corporate HQ,Grid Mix,medium,Baseline,345.6442,0.5808
+73,Perrigo Company,Allegan Main Campus,Grid Mix,medium,Baseline,345.6442,0.5808
+74,Perrigo Company,Allegan Water St Plant,Grid Mix,medium,Baseline,345.6442,0.5808
+75,Perrigo Company,Eau Claire Facility,Grid Mix,medium,Baseline,345.6442,0.5808
+76,Perrigo Company,PBM Nutritionals (Vermont),Grid Mix,medium,Baseline,345.6442,0.5808
+77,Perrigo Company,Perrigo Direct Hub,Grid Mix,medium,Baseline,345.6442,0.5808
+78,Perrigo Company,Omaha Logistics Center,Grid Mix,medium,Baseline,345.6442,0.5808
+79,Perrigo Company,Perrigo Israel (Yeruham),Grid Mix,high,Baseline,502.7125,0.895
+80,Perrigo Company,Perrigo Mexico,Grid Mix,medium,Baseline,412.98679999999996,0.7467999999999999
+81,Perrigo Company,Wrafton Laboratories (UK),Grid Mix,low,Baseline,216.6506,0.34009999999999996
+82,Perrigo Company,Galpharm International,Grid Mix,low,Baseline,216.6506,0.34009999999999996
+83,Perrigo Company,Rosemont Pharmaceuticals,Grid Mix,low,Baseline,216.6506,0.34009999999999996
+84,Perrigo Company,HRA Pharma Global HQ,Grid Mix,very_low,Baseline,51.5256,0.057499999999999996
+85,Perrigo Company,HRA Pharma US,Grid Mix,medium,Baseline,345.6442,0.5808
+86,The Hain Celestial Group,Global Headquarters,Grid Mix,medium,Baseline,345.6442,0.5808
+87,The Hain Celestial Group,Celestial Seasonings,Grid Mix,medium,Baseline,345.6442,0.5808
+88,The Hain Celestial Group,Hain Personal Care Hub,Grid Mix,medium,Baseline,345.6442,0.5808
+89,The Hain Celestial Group,Hain Celestial Canada HQ,Grid Mix,very_low,Baseline,137.44869999999997,0.20729999999999998
+90,The Hain Celestial Group,Mississauga Facility,Grid Mix,very_low,Baseline,137.44869999999997,0.20729999999999998
+91,The Hain Celestial Group,Hain Daniels (Fakenham),Grid Mix,low,Baseline,216.6506,0.34009999999999996
+92,The Hain Celestial Group,Hain Daniels (Histon),Grid Mix,low,Baseline,216.6506,0.34009999999999996
+93,The Hain Celestial Group,Fresh Innovation Centre,Grid Mix,low,Baseline,216.6506,0.34009999999999996
+94,The Hain Celestial Group,Ella’s Kitchen HQ,Grid Mix,low,Baseline,216.6506,0.34009999999999996
+95,The Hain Celestial Group,Natumi GmbH,Grid Mix,low,Baseline,322.8136,0.42550000000000004
+96,The Hain Celestial Group,Mona Naturprodukte (Joya),Grid Mix,very_low,Baseline,109.24919999999999,0.1328
+97,The Hain Celestial Group,Cully & Sully,Grid Mix,low,Baseline,295.8929,0.5468000000000001
+98,The Hain Celestial Group,Yorkshire Provender,Grid Mix,low,Baseline,216.6506,0.34009999999999996
+99,ZURU LLC.,ZURU Global HQ,Grid Mix,high,Baseline,604.1224000000001,0.9905
+100,ZURU LLC.,ZURU US Flagship Campus,Grid Mix,medium,Baseline,345.6442,0.5808
+101,ZURU LLC.,ZURU Shenzhen Hub,Grid Mix,high,Baseline,510.7212,0.6195
+102,ZURU LLC.,ZURU Huizhou Smart Factory,Grid Mix,high,Baseline,510.7212,0.6195
+103,ZURU LLC.,ZURU Guangzhou Plant,Grid Mix,high,Baseline,510.7212,0.6195
+104,ZURU LLC.,ZURU New Zealand HQ,Grid Mix,very_low,Baseline,114.2032,0.1493
+105,ZURU LLC.,ZURU Tech Italy (Modena),Grid Mix,low,Baseline,291.16409999999996,0.5068
+106,ZURU LLC.,ZURU Tech India (Ahmedabad),Grid Mix,high,Baseline,636.1824,0.7755000000000001
+107,ZURU LLC.,ZURU Tech India (Kolkata),Grid Mix,high,Baseline,636.1824,0.7755000000000001
+108,ZURU LLC.,ZURU Bentonville Office,Grid Mix,medium,Baseline,345.6442,0.5808
+109,ZURU LLC.,ZURU Tech Italy (Milan),Grid Mix,low,Baseline,291.16409999999996,0.5068
+110,ZURU LLC.,ZURU Dongguan Tech Center,Grid Mix,high,Baseline,510.7212,0.6195
+111,John Paul Mitchell Systems,Global Headquarters,Grid Mix,medium,Baseline,345.6442,0.5808
+112,John Paul Mitchell Systems,JPMS Creative Center,Grid Mix,medium,Baseline,345.6442,0.5808
+113,John Paul Mitchell Systems,Santa Clarita DC,Grid Mix,medium,Baseline,345.6442,0.5808
+114,John Paul Mitchell Systems,The Awapuhi Farm,Grid Mix,medium,Baseline,345.6442,0.5808
+115,John Paul Mitchell Systems,JPMS UK (Salon Success),Grid Mix,low,Baseline,216.6506,0.34009999999999996
+116,John Paul Mitchell Systems,JPMS European Hub,Grid Mix,very_low,Baseline,39.301399999999994,0.022799999999999997
+117,John Paul Mitchell Systems,Pro-motive (Subsidiary),Grid Mix,medium,Baseline,345.6442,0.5808
+118,John Paul Mitchell Systems,Distribution Center East,Grid Mix,medium,Baseline,345.6442,0.5808
+119,"Natural Organics, Inc.",Global Headquarters,Grid Mix,medium,Baseline,345.6442,0.5808
+120,"Natural Organics, Inc.",Melville Manufacturing,Grid Mix,medium,Baseline,345.6442,0.5808
+121,"Natural Organics, Inc.","The ""Pharma-Lab""",Grid Mix,medium,Baseline,345.6442,0.5808
+122,"Natural Organics, Inc.",Melville Distribution,Grid Mix,medium,Baseline,345.6442,0.5808
+123,"Natural Organics, Inc.",Amityville Facility,Grid Mix,medium,Baseline,345.6442,0.5808
+124,"Natural Organics, Inc.",Nature’s Plus UK,Grid Mix,low,Baseline,216.6506,0.34009999999999996
+125,"Natural Organics, Inc.",Euro-Nutrition Hub,Grid Mix,low,Baseline,281.97159999999997,0.4629

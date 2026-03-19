@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
-    "dev": "nodemon src/index.js",
+    "dev": "node --watch src/index.js",
     "test": "jest --testPathPattern=test/"
   },
   "keywords": ["earthena", "quantearth", "supply-chain", "risk", "docx", "reporting"],
@@ -21,7 +21,6 @@
     "libreoffice-convert": "^1.8.1"
   },
   "devDependencies": {
-    "nodemon": "^3.0.2",
     "jest": "^29.7.0",
     "supertest": "^6.3.3"
   },

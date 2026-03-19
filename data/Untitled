@@ -1,0 +1,3 @@
+I have given you the folder "reporting agent". What I need you to do is implement the reporting agent using the data that is in the data files directory. You can copy the data from the data files directory, or you can get the reporting agent to read from it directly. Either way, that is the base data that should be used.
+
+I need you to implement the reporting agent and then create a separate page on the site called "Reporting", placed after Summary, Investigate, and Analysis. This will serve as an interface for the reporting agent to generate reports.

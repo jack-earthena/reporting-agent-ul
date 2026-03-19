@@ -1,0 +1,127 @@
+,supplier_name,facility_name,risk_type,risk_level,timeframe,grid_carbon_intensity_change
+0,Garmin International,Global Headquarters,Grid Mix,very_low,Within 5 Years,-7.6%
+1,Garmin International,Olathe Manufacturing,Grid Mix,very_low,Within 5 Years,-7.6%
+2,Garmin International,Garmin Salem,Grid Mix,very_low,Within 5 Years,-7.6%
+3,Garmin International,Garmin Chandler,Grid Mix,very_low,Within 5 Years,-7.6%
+4,Garmin International,Lin Kou Plant (Taiwan),Grid Mix,low,Within 5 Years,-2.2%
+5,Garmin International,Zhongli Plant (Taiwan),Grid Mix,low,Within 5 Years,-2.2%
+6,Garmin International,Tainan Plant (Taiwan),Grid Mix,low,Within 5 Years,-2.2%
+7,Garmin International,Garmin Europe HQ,Grid Mix,low,Within 5 Years,-2.5%
+8,Garmin International,Würzburg R&D (Germany),Grid Mix,very_low,Within 5 Years,-6.7%
+9,Garmin International,Garmin Cluj (Romania),Grid Mix,low,Within 5 Years,5.3%
+10,Garmin International,Garmin Singapore,Grid Mix,very_low,Within 5 Years,-9.4%
+11,Garmin International,Garmin Birtley (UK),Grid Mix,low,Within 5 Years,-2.5%
+12,Garmin International,Garmin Australasia,Grid Mix,very_low,Within 5 Years,-5.0%
+13,Techtronic Industries,TTI Innovation Center,Grid Mix,very_low,Within 5 Years,-7.6%
+14,Techtronic Industries,Milwaukee Tool Global HQ,Grid Mix,very_low,Within 5 Years,-7.6%
+15,Techtronic Industries,Milwaukee Tool Jackson Plant,Grid Mix,very_low,Within 5 Years,-7.6%
+16,Techtronic Industries,Milwaukee Tool Grenada Plant,Grid Mix,very_low,Within 5 Years,-7.6%
+17,Techtronic Industries,Milwaukee Tool Greenwood Plant,Grid Mix,very_low,Within 5 Years,-7.6%
+18,Techtronic Industries,Milwaukee Tool Olive Branch DC,Grid Mix,very_low,Within 5 Years,-7.6%
+19,Techtronic Industries,Milwaukee Tool Clinton Plant,Grid Mix,very_low,Within 5 Years,-7.6%
+20,Techtronic Industries,Milwaukee Tool West Bend,Grid Mix,very_low,Within 5 Years,-7.6%
+21,Techtronic Industries,Empire Level (Subsidiary),Grid Mix,very_low,Within 5 Years,-7.6%
+22,Techtronic Industries,Milwaukee Tool Torreon,Grid Mix,low,Within 5 Years,3.5%
+23,Techtronic Industries,TTI Floor Care N.A.,Grid Mix,very_low,Within 5 Years,-7.6%
+24,Techtronic Industries,TTI Dongguan Hub,Grid Mix,low,Within 5 Years,3.1%
+25,Techtronic Industries,TTI Vietnam (SHTP),Grid Mix,low,Within 5 Years,9.0%
+26,Techtronic Industries,DreBo Werkzeugfabrik,Grid Mix,very_low,Within 5 Years,-6.7%
+27,Techtronic Industries,Ryobi Die Casting (USA),Grid Mix,very_low,Within 5 Years,-7.6%
+28,"S.C. Johnson & Son, Inc.",Global Corporate HQ,Grid Mix,very_low,Within 5 Years,-7.6%
+29,"S.C. Johnson & Son, Inc.",Waxdale Facility,Grid Mix,very_low,Within 5 Years,-7.6%
+30,"S.C. Johnson & Son, Inc.",Ziploc Bay City Plant,Grid Mix,very_low,Within 5 Years,-7.6%
+31,"S.C. Johnson & Son, Inc.",North America HQ,Grid Mix,very_low,Within 5 Years,-7.6%
+32,"S.C. Johnson & Son, Inc.","Method ""Soapbox""",Grid Mix,very_low,Within 5 Years,-7.6%
+33,"S.C. Johnson & Son, Inc.",SC Johnson Professional HQ,Grid Mix,very_low,Within 5 Years,-7.6%
+34,"S.C. Johnson & Son, Inc.",Stanley Plant (SCJP),Grid Mix,very_low,Within 5 Years,-7.6%
+35,"S.C. Johnson & Son, Inc.",SCJ Europlant,Grid Mix,very_low,Within 5 Years,-4.3%
+36,"S.C. Johnson & Son, Inc.",European Headquarters (Rolle),Grid Mix,low,Within 5 Years,1.3%
+37,"S.C. Johnson & Son, Inc.",Gorzów Manufacturing,Grid Mix,very_low,Within 5 Years,-5.2%
+38,"S.C. Johnson & Son, Inc.",Rosslyn Factory,Grid Mix,very_low,Within 5 Years,-5.0%
+39,"S.C. Johnson & Son, Inc.",Shanghai Johnson Ltd,Grid Mix,low,Within 5 Years,3.1%
+40,"S.C. Johnson & Son, Inc.",SC Johnson Vietnam,Grid Mix,low,Within 5 Years,9.0%
+41,"S.C. Johnson & Son, Inc.",LATAM Regional HQ,Grid Mix,low,Within 5 Years,6.7%
+42,"S.C. Johnson & Son, Inc.",Pilar Manufacturing,Grid Mix,low,Within 5 Years,6.7%
+43,"S.C. Johnson & Son, Inc.",Toluca Plant,Grid Mix,low,Within 5 Years,3.5%
+44,"GOJO Industries, Inc.",Global Headquarters,Grid Mix,very_low,Within 5 Years,-7.6%
+45,"GOJO Industries, Inc.",Lippman Campus (Stow),Grid Mix,very_low,Within 5 Years,-7.6%
+46,"GOJO Industries, Inc.",Cuyahoga Falls Plant,Grid Mix,very_low,Within 5 Years,-7.6%
+47,"GOJO Industries, Inc.",Wooster Facility,Grid Mix,very_low,Within 5 Years,-7.6%
+48,"GOJO Industries, Inc.",Maple Heights Plant,Grid Mix,very_low,Within 5 Years,-7.6%
+49,"GOJO Industries, Inc.",Ashland Dist. Center,Grid Mix,very_low,Within 5 Years,-7.6%
+50,"GOJO Industries, Inc.",Navarre Warehouse,Grid Mix,very_low,Within 5 Years,-7.6%
+51,"GOJO Industries, Inc.",GOJO Europe (UK HQ),Grid Mix,low,Within 5 Years,-2.5%
+52,"GOJO Industries, Inc.",GOJO France SARL,Grid Mix,very_low,Within 5 Years,-3.9%
+53,"GOJO Industries, Inc.",GOJO Australasia,Grid Mix,very_low,Within 5 Years,-5.0%
+54,"GOJO Industries, Inc.","GOJO Japan, Inc.",Grid Mix,low,Within 5 Years,-2.7%
+55,"GOJO Industries, Inc.",GOJO América Latina,Grid Mix,low,Within 5 Years,5.8%
+56,"GOJO Industries, Inc.",GOJO Canada Inc.,Grid Mix,low,Within 5 Years,-1.5%
+57,Hangzhou Greatstar Industrial.Co.,Global Headquarters,Grid Mix,low,Within 5 Years,3.1%
+58,Hangzhou Greatstar Industrial.Co.,GreatStar Industrial USA,Grid Mix,very_low,Within 5 Years,-7.6%
+59,Hangzhou Greatstar Industrial.Co.,Arrow Fastener Co. HQ,Grid Mix,very_low,Within 5 Years,-7.6%
+60,Hangzhou Greatstar Industrial.Co.,Shop-Vac / SK Tools USA,Grid Mix,very_low,Within 5 Years,-7.6%
+61,Hangzhou Greatstar Industrial.Co.,Prime-Line Products,Grid Mix,very_low,Within 5 Years,-7.6%
+62,Hangzhou Greatstar Industrial.Co.,LISTA AG (Switzerland),Grid Mix,low,Within 5 Years,1.3%
+63,Hangzhou Greatstar Industrial.Co.,BeA GmbH (Germany),Grid Mix,very_low,Within 5 Years,-6.7%
+64,Hangzhou Greatstar Industrial.Co.,Zhongshan Geelong Mfg,Grid Mix,low,Within 5 Years,3.1%
+65,Hangzhou Greatstar Industrial.Co.,GreatStar Vietnam Base,Grid Mix,low,Within 5 Years,9.0%
+66,Hangzhou Greatstar Industrial.Co.,GreatStar Thailand Base,Grid Mix,low,Within 5 Years,1.8%
+67,Hangzhou Greatstar Industrial.Co.,Haining GreatStar Hub,Grid Mix,low,Within 5 Years,3.1%
+68,Hangzhou Greatstar Industrial.Co.,Goldblatt / GreatStar R&D,Grid Mix,very_low,Within 5 Years,-7.6%
+69,Hangzhou Greatstar Industrial.Co.,GreatStar Changzhou Base,Grid Mix,low,Within 5 Years,3.1%
+70,Hangzhou Greatstar Industrial.Co.,Xiaoshan Logistics Base,Grid Mix,low,Within 5 Years,3.1%
+71,Perrigo Company,Global Headquarters,Grid Mix,low,Within 5 Years,-1.2%
+72,Perrigo Company,N. American Corporate HQ,Grid Mix,very_low,Within 5 Years,-7.6%
+73,Perrigo Company,Allegan Main Campus,Grid Mix,very_low,Within 5 Years,-7.6%
+74,Perrigo Company,Allegan Water St Plant,Grid Mix,very_low,Within 5 Years,-7.6%
+75,Perrigo Company,Eau Claire Facility,Grid Mix,very_low,Within 5 Years,-7.6%
+76,Perrigo Company,PBM Nutritionals (Vermont),Grid Mix,very_low,Within 5 Years,-7.6%
+77,Perrigo Company,Perrigo Direct Hub,Grid Mix,very_low,Within 5 Years,-7.6%
+78,Perrigo Company,Omaha Logistics Center,Grid Mix,very_low,Within 5 Years,-7.6%
+79,Perrigo Company,Perrigo Israel (Yeruham),Grid Mix,low,Within 5 Years,4.3%
+80,Perrigo Company,Perrigo Mexico,Grid Mix,low,Within 5 Years,3.5%
+81,Perrigo Company,Wrafton Laboratories (UK),Grid Mix,low,Within 5 Years,-2.5%
+82,Perrigo Company,Galpharm International,Grid Mix,low,Within 5 Years,-2.5%
+83,Perrigo Company,Rosemont Pharmaceuticals,Grid Mix,low,Within 5 Years,-2.5%
+84,Perrigo Company,HRA Pharma Global HQ,Grid Mix,very_low,Within 5 Years,-3.9%
+85,Perrigo Company,HRA Pharma US,Grid Mix,very_low,Within 5 Years,-7.6%
+86,The Hain Celestial Group,Global Headquarters,Grid Mix,very_low,Within 5 Years,-7.6%
+87,The Hain Celestial Group,Celestial Seasonings,Grid Mix,very_low,Within 5 Years,-7.6%
+88,The Hain Celestial Group,Hain Personal Care Hub,Grid Mix,very_low,Within 5 Years,-7.6%
+89,The Hain Celestial Group,Hain Celestial Canada HQ,Grid Mix,low,Within 5 Years,-1.5%
+90,The Hain Celestial Group,Mississauga Facility,Grid Mix,low,Within 5 Years,-1.5%
+91,The Hain Celestial Group,Hain Daniels (Fakenham),Grid Mix,low,Within 5 Years,-2.5%
+92,The Hain Celestial Group,Hain Daniels (Histon),Grid Mix,low,Within 5 Years,-2.5%
+93,The Hain Celestial Group,Fresh Innovation Centre,Grid Mix,low,Within 5 Years,-2.5%
+94,The Hain Celestial Group,Ella’s Kitchen HQ,Grid Mix,low,Within 5 Years,-2.5%
+95,The Hain Celestial Group,Natumi GmbH,Grid Mix,very_low,Within 5 Years,-6.7%
+96,The Hain Celestial Group,Mona Naturprodukte (Joya),Grid Mix,low,Within 5 Years,-0.0%
+97,The Hain Celestial Group,Cully & Sully,Grid Mix,low,Within 5 Years,-1.2%
+98,The Hain Celestial Group,Yorkshire Provender,Grid Mix,low,Within 5 Years,-2.5%
+99,ZURU LLC.,ZURU Global HQ,Grid Mix,low,Within 5 Years,4.1%
+100,ZURU LLC.,ZURU US Flagship Campus,Grid Mix,very_low,Within 5 Years,-7.6%
+101,ZURU LLC.,ZURU Shenzhen Hub,Grid Mix,low,Within 5 Years,3.1%
+102,ZURU LLC.,ZURU Huizhou Smart Factory,Grid Mix,low,Within 5 Years,3.1%
+103,ZURU LLC.,ZURU Guangzhou Plant,Grid Mix,low,Within 5 Years,3.1%
+104,ZURU LLC.,ZURU New Zealand HQ,Grid Mix,low,Within 5 Years,5.2%
+105,ZURU LLC.,ZURU Tech Italy (Modena),Grid Mix,low,Within 5 Years,0.5%
+106,ZURU LLC.,ZURU Tech India (Ahmedabad),Grid Mix,medium,Within 5 Years,10.0%
+107,ZURU LLC.,ZURU Tech India (Kolkata),Grid Mix,medium,Within 5 Years,10.0%
+108,ZURU LLC.,ZURU Bentonville Office,Grid Mix,very_low,Within 5 Years,-7.6%
+109,ZURU LLC.,ZURU Tech Italy (Milan),Grid Mix,low,Within 5 Years,0.5%
+110,ZURU LLC.,ZURU Dongguan Tech Center,Grid Mix,low,Within 5 Years,3.1%
+111,John Paul Mitchell Systems,Global Headquarters,Grid Mix,very_low,Within 5 Years,-7.6%
+112,John Paul Mitchell Systems,JPMS Creative Center,Grid Mix,very_low,Within 5 Years,-7.6%
+113,John Paul Mitchell Systems,Santa Clarita DC,Grid Mix,very_low,Within 5 Years,-7.6%
+114,John Paul Mitchell Systems,The Awapuhi Farm,Grid Mix,very_low,Within 5 Years,-7.6%
+115,John Paul Mitchell Systems,JPMS UK (Salon Success),Grid Mix,low,Within 5 Years,-2.5%
+116,John Paul Mitchell Systems,JPMS European Hub,Grid Mix,low,Within 5 Years,1.3%
+117,John Paul Mitchell Systems,Pro-motive (Subsidiary),Grid Mix,very_low,Within 5 Years,-7.6%
+118,John Paul Mitchell Systems,Distribution Center East,Grid Mix,very_low,Within 5 Years,-7.6%
+119,"Natural Organics, Inc.",Global Headquarters,Grid Mix,very_low,Within 5 Years,-7.6%
+120,"Natural Organics, Inc.",Melville Manufacturing,Grid Mix,very_low,Within 5 Years,-7.6%
+121,"Natural Organics, Inc.","The ""Pharma-Lab""",Grid Mix,very_low,Within 5 Years,-7.6%
+122,"Natural Organics, Inc.",Melville Distribution,Grid Mix,very_low,Within 5 Years,-7.6%
+123,"Natural Organics, Inc.",Amityville Facility,Grid Mix,very_low,Within 5 Years,-7.6%
+124,"Natural Organics, Inc.",Nature’s Plus UK,Grid Mix,low,Within 5 Years,-2.5%
+125,"Natural Organics, Inc.",Euro-Nutrition Hub,Grid Mix,very_low,Within 5 Years,-4.3%

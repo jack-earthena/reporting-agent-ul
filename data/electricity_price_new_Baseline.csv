@@ -1,0 +1,127 @@
+,supplier_name,facility_name,risk_type,risk_level,timeframe,current_price
+0,Garmin International,Global Headquarters,Energy Price,low,Baseline,0.130988808
+1,Garmin International,Olathe Manufacturing,Energy Price,low,Baseline,0.130988808
+2,Garmin International,Garmin Salem,Energy Price,low,Baseline,0.130988808
+3,Garmin International,Garmin Chandler,Energy Price,low,Baseline,0.130988808
+4,Garmin International,Lin Kou Plant (Taiwan),Energy Price,low,Baseline,0.119254608
+5,Garmin International,Zhongli Plant (Taiwan),Energy Price,low,Baseline,0.119254608
+6,Garmin International,Tainan Plant (Taiwan),Energy Price,low,Baseline,0.119254608
+7,Garmin International,Garmin Europe HQ,Energy Price,medium,Baseline,0.140738328
+8,Garmin International,Würzburg R&D (Germany),Energy Price,medium,Baseline,0.140738328
+9,Garmin International,Garmin Cluj (Romania),Energy Price,high,Baseline,0.17149284
+10,Garmin International,Garmin Singapore,Energy Price,very_low,Baseline,0.114771312
+11,Garmin International,Garmin Birtley (UK),Energy Price,medium,Baseline,0.140738328
+12,Garmin International,Garmin Australasia,Energy Price,low,Baseline,0.117353304
+13,Techtronic Industries,TTI Innovation Center,Energy Price,low,Baseline,0.130988808
+14,Techtronic Industries,Milwaukee Tool Global HQ,Energy Price,low,Baseline,0.130988808
+15,Techtronic Industries,Milwaukee Tool Jackson Plant,Energy Price,low,Baseline,0.130988808
+16,Techtronic Industries,Milwaukee Tool Grenada Plant,Energy Price,low,Baseline,0.130988808
+17,Techtronic Industries,Milwaukee Tool Greenwood Plant,Energy Price,low,Baseline,0.130988808
+18,Techtronic Industries,Milwaukee Tool Olive Branch DC,Energy Price,low,Baseline,0.130988808
+19,Techtronic Industries,Milwaukee Tool Clinton Plant,Energy Price,low,Baseline,0.130988808
+20,Techtronic Industries,Milwaukee Tool West Bend,Energy Price,low,Baseline,0.130988808
+21,Techtronic Industries,Empire Level (Subsidiary),Energy Price,low,Baseline,0.130988808
+22,Techtronic Industries,Milwaukee Tool Torreon,Energy Price,low,Baseline,0.12373452
+23,Techtronic Industries,TTI Floor Care N.A.,Energy Price,low,Baseline,0.130988808
+24,Techtronic Industries,TTI Dongguan Hub,Energy Price,very_low,Baseline,0.111924072
+25,Techtronic Industries,TTI Vietnam (SHTP),Energy Price,very_low,Baseline,0.114771312
+26,Techtronic Industries,DreBo Werkzeugfabrik,Energy Price,medium,Baseline,0.140738328
+27,Techtronic Industries,Ryobi Die Casting (USA),Energy Price,low,Baseline,0.130988808
+28,"S.C. Johnson & Son, Inc.",Global Corporate HQ,Energy Price,low,Baseline,0.130988808
+29,"S.C. Johnson & Son, Inc.",Waxdale Facility,Energy Price,low,Baseline,0.130988808
+30,"S.C. Johnson & Son, Inc.",Ziploc Bay City Plant,Energy Price,low,Baseline,0.130988808
+31,"S.C. Johnson & Son, Inc.",North America HQ,Energy Price,low,Baseline,0.130988808
+32,"S.C. Johnson & Son, Inc.","Method ""Soapbox""",Energy Price,low,Baseline,0.130988808
+33,"S.C. Johnson & Son, Inc.",SC Johnson Professional HQ,Energy Price,low,Baseline,0.130988808
+34,"S.C. Johnson & Son, Inc.",Stanley Plant (SCJP),Energy Price,low,Baseline,0.130988808
+35,"S.C. Johnson & Son, Inc.",SCJ Europlant,Energy Price,medium,Baseline,0.140738328
+36,"S.C. Johnson & Son, Inc.",European Headquarters (Rolle),Energy Price,very_low,Baseline,0.096792264
+37,"S.C. Johnson & Son, Inc.",Gorzów Manufacturing,Energy Price,high,Baseline,0.17149284
+38,"S.C. Johnson & Son, Inc.",Rosslyn Factory,Energy Price,very_low,Baseline,0.113263416
+39,"S.C. Johnson & Son, Inc.",Shanghai Johnson Ltd,Energy Price,very_low,Baseline,0.111924072
+40,"S.C. Johnson & Son, Inc.",SC Johnson Vietnam,Energy Price,very_low,Baseline,0.114771312
+41,"S.C. Johnson & Son, Inc.",LATAM Regional HQ,Energy Price,very_low,Baseline,0.110835504
+42,"S.C. Johnson & Son, Inc.",Pilar Manufacturing,Energy Price,very_low,Baseline,0.110835504
+43,"S.C. Johnson & Son, Inc.",Toluca Plant,Energy Price,low,Baseline,0.12373452
+44,"GOJO Industries, Inc.",Global Headquarters,Energy Price,low,Baseline,0.130988808
+45,"GOJO Industries, Inc.",Lippman Campus (Stow),Energy Price,low,Baseline,0.130988808
+46,"GOJO Industries, Inc.",Cuyahoga Falls Plant,Energy Price,low,Baseline,0.130988808
+47,"GOJO Industries, Inc.",Wooster Facility,Energy Price,low,Baseline,0.130988808
+48,"GOJO Industries, Inc.",Maple Heights Plant,Energy Price,low,Baseline,0.130988808
+49,"GOJO Industries, Inc.",Ashland Dist. Center,Energy Price,low,Baseline,0.130988808
+50,"GOJO Industries, Inc.",Navarre Warehouse,Energy Price,low,Baseline,0.130988808
+51,"GOJO Industries, Inc.",GOJO Europe (UK HQ),Energy Price,medium,Baseline,0.140738328
+52,"GOJO Industries, Inc.",GOJO France SARL,Energy Price,medium,Baseline,0.140738328
+53,"GOJO Industries, Inc.",GOJO Australasia,Energy Price,low,Baseline,0.117353304
+54,"GOJO Industries, Inc.","GOJO Japan, Inc.",Energy Price,medium,Baseline,0.139759992
+55,"GOJO Industries, Inc.",GOJO América Latina,Energy Price,low,Baseline,0.117099864
+56,"GOJO Industries, Inc.",GOJO Canada Inc.,Energy Price,low,Baseline,0.133690464
+57,Hangzhou Greatstar Industrial.Co.,Global Headquarters,Energy Price,very_low,Baseline,0.111924072
+58,Hangzhou Greatstar Industrial.Co.,GreatStar Industrial USA,Energy Price,low,Baseline,0.130988808
+59,Hangzhou Greatstar Industrial.Co.,Arrow Fastener Co. HQ,Energy Price,low,Baseline,0.130988808
+60,Hangzhou Greatstar Industrial.Co.,Shop-Vac / SK Tools USA,Energy Price,low,Baseline,0.130988808
+61,Hangzhou Greatstar Industrial.Co.,Prime-Line Products,Energy Price,low,Baseline,0.130988808
+62,Hangzhou Greatstar Industrial.Co.,LISTA AG (Switzerland),Energy Price,very_low,Baseline,0.096792264
+63,Hangzhou Greatstar Industrial.Co.,BeA GmbH (Germany),Energy Price,medium,Baseline,0.140738328
+64,Hangzhou Greatstar Industrial.Co.,Zhongshan Geelong Mfg,Energy Price,very_low,Baseline,0.111924072
+65,Hangzhou Greatstar Industrial.Co.,GreatStar Vietnam Base,Energy Price,very_low,Baseline,0.114771312
+66,Hangzhou Greatstar Industrial.Co.,GreatStar Thailand Base,Energy Price,very_low,Baseline,0.114771312
+67,Hangzhou Greatstar Industrial.Co.,Haining GreatStar Hub,Energy Price,very_low,Baseline,0.111924072
+68,Hangzhou Greatstar Industrial.Co.,Goldblatt / GreatStar R&D,Energy Price,low,Baseline,0.130988808
+69,Hangzhou Greatstar Industrial.Co.,GreatStar Changzhou Base,Energy Price,very_low,Baseline,0.111924072
+70,Hangzhou Greatstar Industrial.Co.,Xiaoshan Logistics Base,Energy Price,very_low,Baseline,0.111924072
+71,Perrigo Company,Global Headquarters,Energy Price,medium,Baseline,0.140738328
+72,Perrigo Company,N. American Corporate HQ,Energy Price,low,Baseline,0.130988808
+73,Perrigo Company,Allegan Main Campus,Energy Price,low,Baseline,0.130988808
+74,Perrigo Company,Allegan Water St Plant,Energy Price,low,Baseline,0.130988808
+75,Perrigo Company,Eau Claire Facility,Energy Price,low,Baseline,0.130988808
+76,Perrigo Company,PBM Nutritionals (Vermont),Energy Price,low,Baseline,0.130988808
+77,Perrigo Company,Perrigo Direct Hub,Energy Price,low,Baseline,0.130988808
+78,Perrigo Company,Omaha Logistics Center,Energy Price,low,Baseline,0.130988808
+79,Perrigo Company,Perrigo Israel (Yeruham),Energy Price,high,Baseline,0.15715728
+80,Perrigo Company,Perrigo Mexico,Energy Price,low,Baseline,0.12373452
+81,Perrigo Company,Wrafton Laboratories (UK),Energy Price,medium,Baseline,0.140738328
+82,Perrigo Company,Galpharm International,Energy Price,medium,Baseline,0.140738328
+83,Perrigo Company,Rosemont Pharmaceuticals,Energy Price,medium,Baseline,0.140738328
+84,Perrigo Company,HRA Pharma Global HQ,Energy Price,medium,Baseline,0.140738328
+85,Perrigo Company,HRA Pharma US,Energy Price,low,Baseline,0.130988808
+86,The Hain Celestial Group,Global Headquarters,Energy Price,low,Baseline,0.130988808
+87,The Hain Celestial Group,Celestial Seasonings,Energy Price,low,Baseline,0.130988808
+88,The Hain Celestial Group,Hain Personal Care Hub,Energy Price,low,Baseline,0.130988808
+89,The Hain Celestial Group,Hain Celestial Canada HQ,Energy Price,low,Baseline,0.133690464
+90,The Hain Celestial Group,Mississauga Facility,Energy Price,low,Baseline,0.133690464
+91,The Hain Celestial Group,Hain Daniels (Fakenham),Energy Price,medium,Baseline,0.140738328
+92,The Hain Celestial Group,Hain Daniels (Histon),Energy Price,medium,Baseline,0.140738328
+93,The Hain Celestial Group,Fresh Innovation Centre,Energy Price,medium,Baseline,0.140738328
+94,The Hain Celestial Group,Ella’s Kitchen HQ,Energy Price,medium,Baseline,0.140738328
+95,The Hain Celestial Group,Natumi GmbH,Energy Price,medium,Baseline,0.140738328
+96,The Hain Celestial Group,Mona Naturprodukte (Joya),Energy Price,medium,Baseline,0.140738328
+97,The Hain Celestial Group,Cully & Sully,Energy Price,medium,Baseline,0.140738328
+98,The Hain Celestial Group,Yorkshire Provender,Energy Price,medium,Baseline,0.140738328
+99,ZURU LLC.,ZURU Global HQ,Energy Price,very_low,Baseline,0.111924072
+100,ZURU LLC.,ZURU US Flagship Campus,Energy Price,low,Baseline,0.130988808
+101,ZURU LLC.,ZURU Shenzhen Hub,Energy Price,very_low,Baseline,0.111924072
+102,ZURU LLC.,ZURU Huizhou Smart Factory,Energy Price,very_low,Baseline,0.111924072
+103,ZURU LLC.,ZURU Guangzhou Plant,Energy Price,very_low,Baseline,0.111924072
+104,ZURU LLC.,ZURU New Zealand HQ,Energy Price,low,Baseline,0.117353304
+105,ZURU LLC.,ZURU Tech Italy (Modena),Energy Price,medium,Baseline,0.140738328
+106,ZURU LLC.,ZURU Tech India (Ahmedabad),Energy Price,high,Baseline,0.156485808
+107,ZURU LLC.,ZURU Tech India (Kolkata),Energy Price,high,Baseline,0.156485808
+108,ZURU LLC.,ZURU Bentonville Office,Energy Price,low,Baseline,0.130988808
+109,ZURU LLC.,ZURU Tech Italy (Milan),Energy Price,medium,Baseline,0.140738328
+110,ZURU LLC.,ZURU Dongguan Tech Center,Energy Price,very_low,Baseline,0.111924072
+111,John Paul Mitchell Systems,Global Headquarters,Energy Price,low,Baseline,0.130988808
+112,John Paul Mitchell Systems,JPMS Creative Center,Energy Price,low,Baseline,0.130988808
+113,John Paul Mitchell Systems,Santa Clarita DC,Energy Price,low,Baseline,0.130988808
+114,John Paul Mitchell Systems,The Awapuhi Farm,Energy Price,low,Baseline,0.130988808
+115,John Paul Mitchell Systems,JPMS UK (Salon Success),Energy Price,medium,Baseline,0.140738328
+116,John Paul Mitchell Systems,JPMS European Hub,Energy Price,very_low,Baseline,0.096792264
+117,John Paul Mitchell Systems,Pro-motive (Subsidiary),Energy Price,low,Baseline,0.130988808
+118,John Paul Mitchell Systems,Distribution Center East,Energy Price,low,Baseline,0.130988808
+119,"Natural Organics, Inc.",Global Headquarters,Energy Price,low,Baseline,0.130988808
+120,"Natural Organics, Inc.",Melville Manufacturing,Energy Price,low,Baseline,0.130988808
+121,"Natural Organics, Inc.","The ""Pharma-Lab""",Energy Price,low,Baseline,0.130988808
+122,"Natural Organics, Inc.",Melville Distribution,Energy Price,low,Baseline,0.130988808
+123,"Natural Organics, Inc.",Amityville Facility,Energy Price,low,Baseline,0.130988808
+124,"Natural Organics, Inc.",Nature’s Plus UK,Energy Price,medium,Baseline,0.140738328
+125,"Natural Organics, Inc.",Euro-Nutrition Hub,Energy Price,medium,Baseline,0.140738328
