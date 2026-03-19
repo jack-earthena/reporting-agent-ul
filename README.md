@@ -66,7 +66,7 @@ npm run dev         # development (auto-reload via nodemon)
 |-------------------|------------------------------|-------------|
 | `PORT`            | `3081`                       | Port to listen on |
 | `DATA_DIR`        | `../data_files` (from agent) | Path to folder containing `*_new_*.csv` and `locations.csv` |
-| `ALLOWED_ORIGINS` | `http://localhost:3000,...`  | Comma-separated allowed CORS origins |
+| `ALLOWED_ORIGINS` | (hardcoded) | localhost:3000, 5173, 8080 + Lovable app |
 | `RATE_LIMIT`      | `20`                         | Max report requests per IP per minute |
 | `CACHE_TTL_MS`    | `3600000`                    | CSV cache TTL in milliseconds (default 1 hour) |
 
@@ -165,8 +165,7 @@ The frontend deploys on Lovable when you push to GitHub. The reporting agent mus
 
 1. Go to [railway.app](https://railway.app), create a project, connect your GitHub repo.
 2. Add a new service. Railway will use the `Dockerfile` (bundles `data` and `src`).
-3. Set environment variables in the Railway dashboard (optional):
-   - `ALLOWED_ORIGINS` — Lovable URLs are allowed by default; override only if needed.
+3. Environment variables are optional; CORS origins are fixed (localhost + Lovable).
 4. Deploy. Copy the public URL (e.g. `https://your-service.railway.app`).
 
 **Render**:
@@ -175,9 +174,7 @@ The frontend deploys on Lovable when you push to GitHub. The reporting agent mus
 2. Use the `render.yaml` blueprint, or manually set:
    - **Runtime:** Docker
    - **Dockerfile path:** `./Dockerfile.reporting`
-3. Set environment variables:
-   - `ALLOWED_ORIGINS` = `https://your-app.lovable.app`
-4. Deploy. Copy the public URL.
+3. Deploy. Copy the public URL.
 
 ### 2. Configure Lovable
 
@@ -187,7 +184,7 @@ The frontend deploys on Lovable when you push to GitHub. The reporting agent mus
    - **Value:** Your reporting agent URL (e.g. `https://your-service.up.railway.app`)
 3. Redeploy the frontend.
 
-**Lovable app URL:** `https://id-preview--5a62631f-7f03-4dd4-97d6-f5f00fac202e.lovable.app` — this origin is already allowed by default in the reporting agent.
+**Lovable app:** `https://5a62631f-7f03-4dd4-97d6-f5f00fac202e.lovableproject.com` — this origin is allowed.
 
 ### 3. Verify
 
@@ -200,7 +197,6 @@ The frontend deploys on Lovable when you push to GitHub. The reporting agent mus
 # From repo root — bundles data_files and LibreOffice
 docker build -f Dockerfile.reporting -t reporting-agent .
 docker run -p 3081:3081 \
-  -e ALLOWED_ORIGINS=https://your-app.lovable.app \
   reporting-agent
 ```
 
@@ -214,7 +210,6 @@ docker build -t reporting-agent .
 docker run -p 3081:3081 \
   -e DATA_DIR=/data \
   -v /path/to/data_files:/data \
-  -e ALLOWED_ORIGINS=https://your-app.lovable.app \
   reporting-agent
 ```
 
