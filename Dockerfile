@@ -1,9 +1,16 @@
-# Build from reporting_agent dir (data via volume): docker build .
-# For bundled data + LibreOffice, use repo root: docker build -f Dockerfile.reporting .
+# Build from reporting_agent dir: docker build .
+# Includes LibreOffice for docx→PDF conversion.
 
-FROM node:20-alpine
+FROM node:20-bookworm-slim
 
 WORKDIR /app
+
+# Install LibreOffice for docx→PDF conversion (headless, no GUI)
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    libreoffice \
+    fonts-liberation \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/*
 
 COPY package*.json ./
 RUN npm ci --only=production

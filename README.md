@@ -164,7 +164,7 @@ The frontend deploys on Lovable when you push to GitHub. The reporting agent mus
 **Railway** (recommended):
 
 1. Go to [railway.app](https://railway.app), create a project, connect your GitHub repo.
-2. Add a new service. Railway will use the `Dockerfile` (bundles `data` and `src`).
+2. Add a new service. Railway will use the `Dockerfile` (bundles `data`, `src`, and LibreOffice for PDF conversion).
 3. Environment variables are optional; CORS origins are fixed (localhost + Lovable).
 4. Deploy. Copy the public URL (e.g. `https://your-service.railway.app`).
 
