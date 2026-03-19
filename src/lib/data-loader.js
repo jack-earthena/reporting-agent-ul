@@ -10,9 +10,7 @@ const path = require("path");
 const { parse } = require("csv-parse/sync");
 
 // ── Config ─────────────────────────────────────────────────────────────────
-const DATA_DIR = process.env.DATA_DIR
-  ? path.resolve(process.env.DATA_DIR)
-  : path.resolve(__dirname, "../data");
+const DATA_DIR = path.resolve(__dirname, "../data");
 
 const CACHE_TTL_MS = Number(process.env.CACHE_TTL_MS || 3_600_000); // 1 hour
 
