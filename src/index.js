@@ -11,13 +11,14 @@ const app  = express();
 const PORT = process.env.PORT || 3081;
 
 // ── CORS ───────────────────────────────────────────────────────────────────
-const allowedOrigins = [
-  "http://localhost:3000",
-  "http://localhost:5173",
-  "http://localhost:8080",
-  "https://5a62631f-7f03-4dd4-97d6-f5f00fac202e.lovableproject.com",
+// These origins are always allowed (never overridden)
+const BASE_ALLOWED_ORIGINS = [
   "https://holocene-demo-alpha.lovable.app",
+  "https://id-preview--5a62631f-7f03-4dd4-97d6-f5f00fac202e.lovable.app",
 ];
+const allowedOrigins = process.env.ALLOWED_ORIGINS
+  ? [...BASE_ALLOWED_ORIGINS, ...process.env.ALLOWED_ORIGINS.split(",").map(s => s.trim()).filter(Boolean)]
+  : BASE_ALLOWED_ORIGINS;
 
 app.use(cors({
   origin: (origin, cb) => {
